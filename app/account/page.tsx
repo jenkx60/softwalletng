@@ -1,0 +1,5 @@
+import Link from "next/link";
+import { requireCustomer } from "@/lib/auth/customer";
+import { CustomerShell } from "@/components/CustomerShell";
+import { SignOutButton, ProfileForm } from "@/components/CustomerForms";
+export default async function Page(){const {user,db}=await requireCustomer("/account");const {data:profile}=await db.from("profiles").select("full_name,phone").eq("id",user.id).single();return <CustomerShell title={`Hello${profile?.full_name?`, ${profile.full_name}`:""}`}><div className="rounded-xl border border-line bg-panel p-6"><p className="mb-4">{user.email}</p><p className="mb-5 text-sm text-ink-70">Track your purchases, manage delivery addresses, and get help with your devices.</p><div className="mb-6 flex flex-wrap gap-4"><Link href="/account/orders" className="text-blue">View orders</Link><Link href="/shop" className="text-blue">Continue shopping</Link></div><SignOutButton /></div><ProfileForm name={profile?.full_name??""} phone={profile?.phone??""} /></CustomerShell>;}

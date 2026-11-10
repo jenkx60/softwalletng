@@ -1,0 +1,237 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-plus-jakarta);
+  --font-display: var(--font-plus-jakarta);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-ink: #101a2e;
+  --color-ink-70: rgb(16 26 46 / 0.7);
+  --color-ink-45: rgb(16 26 46 / 0.45);
+  --color-paper: #f5f7fa;
+  --color-panel: #ffffff;
+  --color-line: #e2e6ed;
+  --color-blue: #2d5fd2;
+  --color-blue-dark: #1c42d3;
+  --color-blue-tint: #e8eefc;
+  --color-rust: #a14e3d;
+  --color-rust-tint: #f5e4e0;
+  --color-photo: #edefec;
+  --shadow-soft: 0 1px 2px rgb(16 32 46 / 0.06), 0 6px 16px rgb(16 32 46 / 0.06);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: 16px;
+  --radius-2xl: 24px;
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  --background: #f5f7fa;
+  --foreground: #101a2e;
+  --card: #ffffff;
+  --card-foreground: #101a2e;
+  --popover: #ffffff;
+  --popover-foreground: #101a2e;
+  --primary: #101a2e;
+  --primary-foreground: #ffffff;
+  --secondary: #e8eefc;
+  --secondary-foreground: #101a2e;
+  --muted: #edefec;
+  --muted-foreground: rgb(16 26 46 / 0.45);
+  --accent: #2d5fd2;
+  --accent-foreground: #ffffff;
+  --destructive: #a14e3d;
+  --border: #e2e6ed;
+  --input: #e2e6ed;
+  --ring: #2d5fd2;
+  --chart-1: #2d5fd2;
+  --chart-2: #1c42d3;
+  --chart-3: #101a2e;
+  --chart-4: #a14e3d;
+  --chart-5: #e2e6ed;
+  --radius: 10px;
+  --sidebar: #101a2e;
+  --sidebar-foreground: rgb(255 255 255 / 0.75);
+  --sidebar-primary: #2d5fd2;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: rgb(255 255 255 / 0.08);
+  --sidebar-accent-foreground: #ffffff;
+  --sidebar-border: rgb(255 255 255 / 0.12);
+  --sidebar-ring: #2d5fd2;
+}
+
+.dark {
+  --background: #101a2e;
+  --foreground: #f5f7fa;
+  --card: #18233a;
+  --card-foreground: #f5f7fa;
+  --popover: #18233a;
+  --popover-foreground: #f5f7fa;
+  --primary: #f5f7fa;
+  --primary-foreground: #101a2e;
+  --secondary: #1c42d3;
+  --secondary-foreground: #ffffff;
+  --muted: #18233a;
+  --muted-foreground: rgb(245 247 250 / 0.6);
+  --accent: #2d5fd2;
+  --accent-foreground: #ffffff;
+  --destructive: #a14e3d;
+  --border: rgb(255 255 255 / 0.12);
+  --input: rgb(255 255 255 / 0.14);
+  --ring: #2d5fd2;
+  --sidebar: #101a2e;
+  --sidebar-foreground: rgb(255 255 255 / 0.75);
+  --sidebar-primary: #2d5fd2;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: rgb(255 255 255 / 0.08);
+  --sidebar-accent-foreground: #ffffff;
+  --sidebar-border: rgb(255 255 255 / 0.12);
+  --sidebar-ring: #2d5fd2;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  /* Controls share a 10px radius; panels use rounded-xl (16px). */
+  button,
+  input:not([type="checkbox"]):not([type="radio"]):not([type="hidden"]),
+  select,
+  textarea {
+    border-radius: var(--radius-lg);
+  }
+
+  html {
+    @apply font-sans;
+  }
+
+  body {
+    @apply bg-paper text-ink antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  .font-display {
+    font-family: var(--font-plus-jakarta), var(--font-sans), sans-serif;
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer components {
+  .condition-tag {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 12px 5px 16px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #fff;
+    background: var(--color-blue);
+    clip-path: polygon(10px 0, 100% 0, 100% 100%, 10px 100%, 0 50%);
+  }
+
+  .condition-tag::after {
+    content: "";
+    position: absolute;
+    left: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background: rgb(255 255 255 / 0.85);
+  }
+
+  .condition-tag-used {
+    background: var(--color-ink);
+  }
+
+  .condition-tag-out {
+    background: var(--color-ink-45);
+  }
+
+  .condition-tag-sm {
+    font-size: 10.5px;
+    padding: 3px 9px 3px 13px;
+  }
+
+  .condition-tag-sm::after {
+    width: 2.5px;
+    height: 2.5px;
+    left: 5px;
+  }
+
+  .page-container {
+    width: 100%;
+    max-width: 1180px;
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    .page-container {
+      padding-inline: 1.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .page-container {
+      padding-inline: 2.5rem;
+    }
+  }
+}
+
+@keyframes ticker-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track {
+    animation: none !important;
+  }
+}

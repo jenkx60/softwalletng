@@ -1,0 +1,34 @@
+begin;
+select plan(19);
+insert into auth.users(id,email,raw_user_meta_data) values('aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaac1','checkout@test.local','{}');
+insert into public.products(id,name,slug,is_published) values('bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbc1','Checkout device','checkout-device',true);
+insert into public.product_variants(id,product_id,sku,price,is_serialized,quantity) values
+('cccccccc-cccc-cccc-cccc-ccccccccccc1','bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbc1','CHECK-UNIT',10000,true,0),
+('cccccccc-cccc-cccc-cccc-ccccccccccc2','bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbc1','CHECK-QTY',2000,false,5);
+insert into public.inventory_items(id,variant_id,imei) values('dddddddd-dddd-dddd-dddd-ddddddddddc1','cccccccc-cccc-cccc-cccc-ccccccccccc1','checkout-imei');
+insert into public.addresses(id,user_id,recipient_name,phone,line1,city,state) values('eeeeeeee-eeee-eeee-eeee-eeeeeeeeeec1','aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaac1','Test','08012345678','Test street','Ikeja','Lagos');
+insert into public.delivery_zones(id,name,state,fee) values('ffffffff-ffff-ffff-ffff-ffffffffffc1','Ikeja','Lagos',1000);
+create temp table checkout_result as select public.begin_customer_checkout('aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaac1','11111111-1111-4111-8111-1111111111c1','[{"variantId":"cccccccc-cccc-cccc-cccc-ccccccccccc1","quantity":1,"expectedPrice":10000},{"variantId":"cccccccc-cccc-cccc-cccc-ccccccccccc2","quantity":2,"expectedPrice":2000}]','eeeeeeee-eeee-eeee-eeee-eeeeeeeeeec1','ffffffff-ffff-ffff-ffff-ffffffffffc1','') as id;
+select is((select total_amount from public.orders where id=(select id from checkout_result)),15000,'server calculates live price plus delivery');
+select is((select status from public.inventory_items where id='dddddddd-dddd-dddd-dddd-ddddddddddc1'),'available','checkout keeps physical unit available');
+select is((select count(*)::int from public.checkout_holds where order_id=(select id from checkout_result)),2,'both stock types held');
+select is(public.begin_customer_checkout('aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaac1','11111111-1111-4111-8111-1111111111c1','[]','eeeeeeee-eeee-eeee-eeee-eeeeeeeeeec1','ffffffff-ffff-ffff-ffff-ffffffffffc1',''),(select id from checkout_result),'double-click checkout returns same order');
+select throws_ok($$select public.record_physical_sale('dddddddd-dddd-dddd-dddd-ddddddddddc1','aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaac1',gen_random_uuid())$$,'P0001',null,'in-store sale cannot take held unit');
+select throws_ok($$select public.adjust_variant_quantity('cccccccc-cccc-cccc-cccc-ccccccccccc2',-4,'physical_sale','aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaac1','order',gen_random_uuid())$$,'P0001',null,'in-store quantity sale cannot consume held units');
+select throws_ok($$select * from public.fulfill_payment('sw-'||(select id::text from checkout_result),1)$$,'P0001',null,'amount mismatch rejected');
+select is((select status from public.orders where id=(select id from checkout_result)),'pending','mismatch leaves order pending');
+select lives_ok($$select * from public.fulfill_payment('sw-'||(select id::text from checkout_result),15000)$$,'verified payment fulfills');
+select is((select status from public.inventory_items where id='dddddddd-dddd-dddd-dddd-ddddddddddc1'),'sold','unit transitions directly available to sold');
+select is((select quantity from public.product_variants where id='cccccccc-cccc-cccc-cccc-ccccccccccc2'),3,'quantity stock decremented once');
+select ok((select already_paid from public.fulfill_payment('sw-'||(select id::text from checkout_result),15000)),'duplicate payment acknowledged');
+select is((select count(*)::int from public.inventory_movements where reason='checkout_fulfillment' and reference_id in(select id from public.payments where order_id=(select id from checkout_result))),2,'duplicate webhook adds no movements');
+select throws_ok($$select public.begin_customer_checkout('aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaac1',gen_random_uuid(),'[{"variantId":"cccccccc-cccc-cccc-cccc-ccccccccccc2","quantity":1,"expectedPrice":1}]','eeeeeeee-eeee-eeee-eeee-eeeeeeeeeec1','ffffffff-ffff-ffff-ffff-ffffffffffc1','')$$,'P0001',null,'changed or forged prices rejected');
+select throws_ok($$select public.begin_customer_checkout('aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaac1',gen_random_uuid(),'[{"variantId":"cccccccc-cccc-cccc-cccc-ccccccccccc2","quantity":1,"expectedPrice":2000}]',gen_random_uuid(),'ffffffff-ffff-ffff-ffff-ffffffffffc1','')$$,'P0001',null,'foreign address rejected');
+create temp table late_checkout as select public.begin_customer_checkout('aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaac1',gen_random_uuid(),'[{"variantId":"cccccccc-cccc-cccc-cccc-ccccccccccc2","quantity":1,"expectedPrice":2000}]','eeeeeeee-eeee-eeee-eeee-eeeeeeeeeec1','ffffffff-ffff-ffff-ffff-ffffffffffc1','') as id;
+update public.checkout_holds set expires_at=now()-interval '1 minute' where order_id=(select id from late_checkout);
+select lives_ok($$select * from public.fulfill_payment('sw-'||(select id::text from late_checkout),3000)$$,'late payment recorded for review');
+select ok((select payment_review from public.orders where id=(select id from late_checkout)),'late payment flags review');
+select is((select quantity from public.product_variants where id='cccccccc-cccc-cccc-cccc-ccccccccccc2'),3,'late payment never takes stock');
+select ok((select already_paid from public.fulfill_payment('sw-'||(select id::text from late_checkout),3000)),'late duplicate is idempotent');
+select * from finish();
+rollback;

@@ -1,0 +1,7976 @@
+{
+  "pages": [
+    {
+      "id": "26:97",
+      "name": "02 / Customer journeys"
+    },
+    {
+      "id": "33:16120",
+      "name": "03 / Admin workspace"
+    }
+  ],
+  "screens": [
+    {
+      "id": "26:99",
+      "name": "home / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 1790.3671875
+    },
+    {
+      "id": "26:584",
+      "name": "home / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 2432.1875
+    },
+    {
+      "id": "26:1053",
+      "name": "search / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:1095",
+      "name": "search / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 856
+    },
+    {
+      "id": "26:1138",
+      "name": "catalog / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:1195",
+      "name": "catalog / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 2007
+    },
+    {
+      "id": "26:1262",
+      "name": "used / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:1317",
+      "name": "used / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1943
+    },
+    {
+      "id": "26:1374",
+      "name": "laptops / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:1426",
+      "name": "laptops / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1835
+    },
+    {
+      "id": "26:1479",
+      "name": "deals / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:1532",
+      "name": "deals / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1879
+    },
+    {
+      "id": "26:1586",
+      "name": "catalog-page2 / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:1639",
+      "name": "catalog-page2 / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1879
+    },
+    {
+      "id": "26:1693",
+      "name": "filters / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:1756",
+      "name": "filters / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 940
+    },
+    {
+      "id": "26:1821",
+      "name": "filtered / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:1876",
+      "name": "filtered / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1943
+    },
+    {
+      "id": "26:1933",
+      "name": "sort / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:1971",
+      "name": "sort / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:2010",
+      "name": "sorted / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:2063",
+      "name": "sorted / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1879
+    },
+    {
+      "id": "26:2117",
+      "name": "search-empty / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:2139",
+      "name": "search-empty / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:2162",
+      "name": "browse-loading / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:2183",
+      "name": "browse-loading / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:2204",
+      "name": "browse-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:2225",
+      "name": "browse-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:2247",
+      "name": "mobile-menu / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:2279",
+      "name": "mobile-menu / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 875
+    },
+    {
+      "id": "26:2317",
+      "name": "product / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 1453.5
+    },
+    {
+      "id": "26:2483",
+      "name": "product / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 2004.25
+    },
+    {
+      "id": "26:2660",
+      "name": "used-product / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 1043
+    },
+    {
+      "id": "26:2704",
+      "name": "used-product / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1123
+    },
+    {
+      "id": "26:2745",
+      "name": "laptop-product / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 1043
+    },
+    {
+      "id": "26:2787",
+      "name": "laptop-product / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1059
+    },
+    {
+      "id": "26:2825",
+      "name": "variant / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 974
+    },
+    {
+      "id": "26:2866",
+      "name": "variant / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1054
+    },
+    {
+      "id": "26:2904",
+      "name": "gallery / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:2928",
+      "name": "gallery / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:2953",
+      "name": "gallery-back / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:2977",
+      "name": "gallery-back / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3002",
+      "name": "grading / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3033",
+      "name": "grading / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3065",
+      "name": "product-reviews / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3100",
+      "name": "product-reviews / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3131",
+      "name": "imei-soon / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3162",
+      "name": "imei-soon / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3194",
+      "name": "sold-out / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3225",
+      "name": "sold-out / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3252",
+      "name": "notify / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3290",
+      "name": "notify / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3332",
+      "name": "notify-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3372",
+      "name": "notify-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3413",
+      "name": "notify-success / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3444",
+      "name": "notify-success / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3475",
+      "name": "added / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3508",
+      "name": "added / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3542",
+      "name": "added-used / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3575",
+      "name": "added-used / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3609",
+      "name": "added-laptop / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3642",
+      "name": "added-laptop / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3676",
+      "name": "added-variant / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3709",
+      "name": "added-variant / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3743",
+      "name": "add-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3776",
+      "name": "add-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3810",
+      "name": "stock-lost / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3843",
+      "name": "stock-lost / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:3877",
+      "name": "cart / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:3925",
+      "name": "cart / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1011
+    },
+    {
+      "id": "26:3980",
+      "name": "cart-limit / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4030",
+      "name": "cart-limit / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1020
+    },
+    {
+      "id": "26:4076",
+      "name": "cart-reduced / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4123",
+      "name": "cart-reduced / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 980
+    },
+    {
+      "id": "26:4166",
+      "name": "remove-item / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4197",
+      "name": "remove-item / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:4229",
+      "name": "cart-removed / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4271",
+      "name": "cart-removed / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 915
+    },
+    {
+      "id": "26:4311",
+      "name": "cart-empty / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4331",
+      "name": "cart-empty / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:4351",
+      "name": "cart-price / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4395",
+      "name": "cart-price / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 959
+    },
+    {
+      "id": "26:4435",
+      "name": "cart-stock / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4473",
+      "name": "cart-stock / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:4507",
+      "name": "cart-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4545",
+      "name": "cart-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:4579",
+      "name": "context-used-cart / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4614",
+      "name": "context-used-cart / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:4645",
+      "name": "context-laptop-cart / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4680",
+      "name": "context-laptop-cart / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:4711",
+      "name": "context-variant-cart / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4746",
+      "name": "context-variant-cart / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:4777",
+      "name": "context-reduced-cart / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4812",
+      "name": "context-reduced-cart / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:4843",
+      "name": "context-removed-cart / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4878",
+      "name": "context-removed-cart / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:4910",
+      "name": "signin / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:4948",
+      "name": "signin / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 875
+    },
+    {
+      "id": "26:4999",
+      "name": "signin-invalid / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5033",
+      "name": "signin-invalid / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5068",
+      "name": "signin-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5102",
+      "name": "signin-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5137",
+      "name": "auth-loading / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5158",
+      "name": "auth-loading / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5179",
+      "name": "auth-limited / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5200",
+      "name": "auth-limited / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5222",
+      "name": "signup / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5266",
+      "name": "signup / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 903
+    },
+    {
+      "id": "26:5314",
+      "name": "signup-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 940
+    },
+    {
+      "id": "26:5360",
+      "name": "signup-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 956
+    },
+    {
+      "id": "26:5407",
+      "name": "verify-email / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5430",
+      "name": "verify-email / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5458",
+      "name": "email-resent / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5477",
+      "name": "email-resent / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5496",
+      "name": "email-expired / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5517",
+      "name": "email-expired / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5539",
+      "name": "account-created / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5560",
+      "name": "account-created / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5582",
+      "name": "phone / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5608",
+      "name": "phone / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5638",
+      "name": "otp / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5665",
+      "name": "otp / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5699",
+      "name": "otp-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5727",
+      "name": "otp-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5756",
+      "name": "otp-expired / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5777",
+      "name": "otp-expired / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5799",
+      "name": "otp-resent / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5820",
+      "name": "otp-resent / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5842",
+      "name": "sms-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5865",
+      "name": "sms-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5890",
+      "name": "google / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5911",
+      "name": "google / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5936",
+      "name": "google-cancel / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:5957",
+      "name": "google-cancel / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:5979",
+      "name": "google-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6000",
+      "name": "google-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6022",
+      "name": "reset / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6047",
+      "name": "reset / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6073",
+      "name": "reset-sent / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6094",
+      "name": "reset-sent / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6119",
+      "name": "new-password / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6148",
+      "name": "new-password / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6180",
+      "name": "password-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6212",
+      "name": "password-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6244",
+      "name": "password-saved / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6263",
+      "name": "password-saved / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6282",
+      "name": "reset-expired / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6303",
+      "name": "reset-expired / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6325",
+      "name": "account / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6357",
+      "name": "account / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6395",
+      "name": "profile / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6431",
+      "name": "profile / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6472",
+      "name": "profile-saved / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6491",
+      "name": "profile-saved / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6510",
+      "name": "profile-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6543",
+      "name": "profile-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6578",
+      "name": "signout / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6609",
+      "name": "signout / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6641",
+      "name": "session-expired / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6672",
+      "name": "session-expired / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6704",
+      "name": "checkout / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6747",
+      "name": "checkout / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 965
+    },
+    {
+      "id": "26:6799",
+      "name": "addresses / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6828",
+      "name": "addresses / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:6860",
+      "name": "address-new / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:6912",
+      "name": "address-new / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1079
+    },
+    {
+      "id": "26:6973",
+      "name": "address-edit / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7025",
+      "name": "address-edit / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1079
+    },
+    {
+      "id": "26:7081",
+      "name": "address-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7125",
+      "name": "address-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 956
+    },
+    {
+      "id": "26:7172",
+      "name": "address-save-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7227",
+      "name": "address-save-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1176
+    },
+    {
+      "id": "26:7286",
+      "name": "address-saved / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7311",
+      "name": "address-saved / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7337",
+      "name": "address-delete / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7368",
+      "name": "address-delete / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7400",
+      "name": "address-deleted / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7425",
+      "name": "address-deleted / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7451",
+      "name": "delivery-unavailable / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7484",
+      "name": "delivery-unavailable / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7518",
+      "name": "coupon / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7555",
+      "name": "coupon / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7600",
+      "name": "coupon-applied / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7636",
+      "name": "coupon-applied / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7673",
+      "name": "coupon-invalid / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7713",
+      "name": "coupon-invalid / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7754",
+      "name": "coupon-expired / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7794",
+      "name": "coupon-expired / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7835",
+      "name": "coupon-minimum / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7875",
+      "name": "coupon-minimum / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7916",
+      "name": "checkout-repriced / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:7949",
+      "name": "checkout-repriced / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:7983",
+      "name": "checkout-stock / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8004",
+      "name": "checkout-stock / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:8026",
+      "name": "review-order / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8076",
+      "name": "review-order / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1031
+    },
+    {
+      "id": "26:8128",
+      "name": "review-discounted / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8178",
+      "name": "review-discounted / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 963
+    },
+    {
+      "id": "26:8224",
+      "name": "reservation-expired / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8257",
+      "name": "reservation-expired / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:8291",
+      "name": "context-used-checkout / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8331",
+      "name": "context-used-checkout / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "26:8372",
+      "name": "context-laptop-checkout / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8412",
+      "name": "context-laptop-checkout / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "26:8453",
+      "name": "context-variant-checkout / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8493",
+      "name": "context-variant-checkout / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "26:8534",
+      "name": "context-reduced-checkout / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8574",
+      "name": "context-reduced-checkout / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "26:8615",
+      "name": "context-removed-checkout / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8655",
+      "name": "context-removed-checkout / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "26:8697",
+      "name": "payment-start / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8730",
+      "name": "payment-start / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:8763",
+      "name": "paystack / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8794",
+      "name": "paystack / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:8826",
+      "name": "payment-discounted / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8853",
+      "name": "payment-discounted / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:8881",
+      "name": "payment-repriced / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8908",
+      "name": "payment-repriced / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:8936",
+      "name": "payment-init-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:8959",
+      "name": "payment-init-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:8984",
+      "name": "processing / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9012",
+      "name": "processing / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9047",
+      "name": "processing-discounted / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9076",
+      "name": "processing-discounted / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9106",
+      "name": "processing-repriced / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9135",
+      "name": "processing-repriced / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9165",
+      "name": "payment-delayed / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9195",
+      "name": "payment-delayed / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9227",
+      "name": "payment-cancelled / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9248",
+      "name": "payment-cancelled / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9270",
+      "name": "payment-failed / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9291",
+      "name": "payment-failed / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9313",
+      "name": "payment-review / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9341",
+      "name": "payment-review / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9370",
+      "name": "order-success / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9401",
+      "name": "order-success / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9433",
+      "name": "success-discounted / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9461",
+      "name": "success-discounted / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9490",
+      "name": "success-repriced / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9518",
+      "name": "success-repriced / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9547",
+      "name": "context-used-payment / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9580",
+      "name": "context-used-payment / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9614",
+      "name": "context-used-processing / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9643",
+      "name": "context-used-processing / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9673",
+      "name": "context-used-pending / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9700",
+      "name": "context-used-pending / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9728",
+      "name": "context-used-success / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9756",
+      "name": "context-used-success / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9785",
+      "name": "context-laptop-payment / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9818",
+      "name": "context-laptop-payment / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9852",
+      "name": "context-laptop-processing / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9881",
+      "name": "context-laptop-processing / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9911",
+      "name": "context-laptop-pending / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9938",
+      "name": "context-laptop-pending / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:9966",
+      "name": "context-laptop-success / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:9994",
+      "name": "context-laptop-success / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10023",
+      "name": "context-variant-payment / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10056",
+      "name": "context-variant-payment / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10090",
+      "name": "context-variant-processing / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10119",
+      "name": "context-variant-processing / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10149",
+      "name": "context-variant-pending / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10176",
+      "name": "context-variant-pending / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10204",
+      "name": "context-variant-success / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10232",
+      "name": "context-variant-success / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10261",
+      "name": "context-reduced-payment / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10294",
+      "name": "context-reduced-payment / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10328",
+      "name": "context-reduced-processing / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10357",
+      "name": "context-reduced-processing / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10387",
+      "name": "context-reduced-pending / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10414",
+      "name": "context-reduced-pending / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10442",
+      "name": "context-reduced-success / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10470",
+      "name": "context-reduced-success / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10499",
+      "name": "context-removed-payment / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10532",
+      "name": "context-removed-payment / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10566",
+      "name": "context-removed-processing / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10595",
+      "name": "context-removed-processing / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10625",
+      "name": "context-removed-pending / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10652",
+      "name": "context-removed-pending / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10680",
+      "name": "context-removed-success / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10708",
+      "name": "context-removed-success / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10738",
+      "name": "my-orders / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10773",
+      "name": "my-orders / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10809",
+      "name": "orders-empty / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10829",
+      "name": "orders-empty / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10849",
+      "name": "orders-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10870",
+      "name": "orders-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10892",
+      "name": "order-pending / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:10926",
+      "name": "order-pending / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:10961",
+      "name": "order-detail / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 1069
+    },
+    {
+      "id": "26:11019",
+      "name": "order-detail / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1349
+    },
+    {
+      "id": "26:11075",
+      "name": "tracking / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11110",
+      "name": "tracking / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 904
+    },
+    {
+      "id": "26:11152",
+      "name": "delivery-delayed / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11173",
+      "name": "delivery-delayed / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11195",
+      "name": "receipt / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 963
+    },
+    {
+      "id": "26:11247",
+      "name": "receipt / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 1051
+    },
+    {
+      "id": "26:11294",
+      "name": "cancel-order / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11332",
+      "name": "cancel-order / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11371",
+      "name": "cancel-requested / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11390",
+      "name": "cancel-requested / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11409",
+      "name": "order-delivered / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11442",
+      "name": "order-delivered / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11477",
+      "name": "review / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11513",
+      "name": "review / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11554",
+      "name": "review-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11585",
+      "name": "review-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11617",
+      "name": "review-success / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11636",
+      "name": "review-success / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11655",
+      "name": "return-request / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11697",
+      "name": "return-request / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 903
+    },
+    {
+      "id": "26:11745",
+      "name": "return-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11775",
+      "name": "return-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11807",
+      "name": "return-success / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11833",
+      "name": "return-success / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11859",
+      "name": "support / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11897",
+      "name": "support / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11941",
+      "name": "support-sent / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:11969",
+      "name": "support-sent / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:11998",
+      "name": "support-error / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:12019",
+      "name": "support-error / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:12041",
+      "name": "delivery-info / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:12069",
+      "name": "delivery-info / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:12098",
+      "name": "returns-info / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:12124",
+      "name": "returns-info / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "26:12151",
+      "name": "context-used-order / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:12191",
+      "name": "context-used-order / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "26:12232",
+      "name": "context-laptop-order / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:12272",
+      "name": "context-laptop-order / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "26:12313",
+      "name": "context-variant-order / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:12353",
+      "name": "context-variant-order / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "26:12394",
+      "name": "context-reduced-order / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:12434",
+      "name": "context-reduced-order / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "26:12475",
+      "name": "context-removed-order / desktop",
+      "page": "26:97",
+      "width": 1280,
+      "height": 900
+    },
+    {
+      "id": "26:12515",
+      "name": "context-removed-order / mobile",
+      "page": "26:97",
+      "width": 390,
+      "height": 857
+    },
+    {
+      "id": "33:16122",
+      "name": "dashboard / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16217",
+      "name": "dashboard / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1723
+    },
+    {
+      "id": "33:16292",
+      "name": "dashboard-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16393",
+      "name": "dashboard-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16460",
+      "name": "dashboard-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16512",
+      "name": "dashboard-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16565",
+      "name": "dashboard-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16618",
+      "name": "dashboard-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16680",
+      "name": "products / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16758",
+      "name": "products / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:16812",
+      "name": "products-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16880",
+      "name": "products-new / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:16983",
+      "name": "products-new / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1519
+    },
+    {
+      "id": "33:17069",
+      "name": "products-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:17182",
+      "name": "products-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 998
+    },
+    {
+      "id": "33:17291",
+      "name": "products-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:17344",
+      "name": "products-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:17410",
+      "name": "products-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 981
+    },
+    {
+      "id": "33:17519",
+      "name": "products-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:17613",
+      "name": "products-archived / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:17664",
+      "name": "products-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:17760",
+      "name": "products-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:17854",
+      "name": "products-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:17968",
+      "name": "products-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18035",
+      "name": "products-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18089",
+      "name": "products-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18142",
+      "name": "products-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18195",
+      "name": "products-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18257",
+      "name": "categories / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18335",
+      "name": "categories / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:18389",
+      "name": "categories-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18457",
+      "name": "categories-new / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18538",
+      "name": "categories-new / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1079
+    },
+    {
+      "id": "33:18600",
+      "name": "categories-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18691",
+      "name": "categories-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18778",
+      "name": "categories-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18831",
+      "name": "categories-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18897",
+      "name": "categories-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:18984",
+      "name": "categories-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19078",
+      "name": "categories-archived / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19129",
+      "name": "categories-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19225",
+      "name": "categories-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19319",
+      "name": "categories-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19433",
+      "name": "categories-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19500",
+      "name": "categories-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19554",
+      "name": "categories-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19607",
+      "name": "categories-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19660",
+      "name": "categories-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19722",
+      "name": "brands / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19800",
+      "name": "brands / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:19854",
+      "name": "brands-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19919",
+      "name": "brands-new / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:19995",
+      "name": "brands-new / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 969
+    },
+    {
+      "id": "33:20051",
+      "name": "brands-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20137",
+      "name": "brands-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20219",
+      "name": "brands-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20272",
+      "name": "brands-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20335",
+      "name": "brands-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20417",
+      "name": "brands-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20508",
+      "name": "brands-archived / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20559",
+      "name": "brands-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20652",
+      "name": "brands-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20743",
+      "name": "brands-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20854",
+      "name": "brands-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20921",
+      "name": "brands-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:20975",
+      "name": "brands-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21028",
+      "name": "brands-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21081",
+      "name": "brands-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21143",
+      "name": "inventory / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21227",
+      "name": "inventory / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1263
+    },
+    {
+      "id": "33:21290",
+      "name": "inventory-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21365",
+      "name": "inventory-new / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21457",
+      "name": "inventory-new / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1299
+    },
+    {
+      "id": "33:21531",
+      "name": "inventory-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21633",
+      "name": "inventory-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21731",
+      "name": "inventory-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21784",
+      "name": "inventory-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21853",
+      "name": "inventory-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:21951",
+      "name": "inventory-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22055",
+      "name": "inventory-archived / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22106",
+      "name": "inventory-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22205",
+      "name": "inventory-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22302",
+      "name": "inventory-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22419",
+      "name": "inventory-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22486",
+      "name": "inventory-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22540",
+      "name": "inventory-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22593",
+      "name": "inventory-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22646",
+      "name": "inventory-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22707",
+      "name": "inventory-quantity / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22799",
+      "name": "inventory-adjust / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22882",
+      "name": "inventory-adjust-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:22983",
+      "name": "inventory-adjust-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23046",
+      "name": "inventory-adjust-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23106",
+      "name": "inventory-used / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23199",
+      "name": "inventory-battery-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23259",
+      "name": "inventory-import / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23337",
+      "name": "inventory-import-errors / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23407",
+      "name": "inventory-import-ready / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23470",
+      "name": "inventory-import-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23524",
+      "name": "movements / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23602",
+      "name": "movements / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:23656",
+      "name": "movements-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23726",
+      "name": "movements-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 1026
+    },
+    {
+      "id": "33:23849",
+      "name": "movements-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23916",
+      "name": "movements-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:23968",
+      "name": "movements-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24021",
+      "name": "movements-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24074",
+      "name": "movements-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24136",
+      "name": "sale / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24216",
+      "name": "sale / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1135
+    },
+    {
+      "id": "33:24273",
+      "name": "sale-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24341",
+      "name": "sale-new / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24417",
+      "name": "sale-new / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 969
+    },
+    {
+      "id": "33:24473",
+      "name": "sale-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24559",
+      "name": "sale-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24641",
+      "name": "sale-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24694",
+      "name": "sale-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24757",
+      "name": "sale-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24810",
+      "name": "sale-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:24904",
+      "name": "sale-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25000",
+      "name": "sale-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25094",
+      "name": "sale-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25208",
+      "name": "sale-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25275",
+      "name": "sale-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25327",
+      "name": "sale-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25380",
+      "name": "sale-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25433",
+      "name": "sale-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25494",
+      "name": "sale-quantity / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25569",
+      "name": "sale-quantity-review / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25629",
+      "name": "sale-quantity-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25692",
+      "name": "sale-receipt / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25756",
+      "name": "orders / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:25834",
+      "name": "orders / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:25888",
+      "name": "orders-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 1082
+    },
+    {
+      "id": "33:25992",
+      "name": "orders-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26080",
+      "name": "orders-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26162",
+      "name": "orders-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26215",
+      "name": "orders-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26284",
+      "name": "orders-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26366",
+      "name": "orders-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26470",
+      "name": "orders-archived / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26521",
+      "name": "orders-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26620",
+      "name": "orders-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26717",
+      "name": "orders-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26834",
+      "name": "orders-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26901",
+      "name": "orders-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:26953",
+      "name": "orders-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27006",
+      "name": "orders-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27059",
+      "name": "orders-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27120",
+      "name": "orders-payment / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27184",
+      "name": "orders-payment-pending / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27237",
+      "name": "orders-payment-mismatch / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27300",
+      "name": "orders-return / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27375",
+      "name": "orders-refund / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27450",
+      "name": "orders-refund-requested / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27502",
+      "name": "customers / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27580",
+      "name": "customers / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:27634",
+      "name": "customers-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27700",
+      "name": "customers-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27817",
+      "name": "customers-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27884",
+      "name": "customers-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27936",
+      "name": "customers-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:27989",
+      "name": "customers-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:28042",
+      "name": "customers-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:28104",
+      "name": "discounts / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:28182",
+      "name": "discounts / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:28236",
+      "name": "discounts-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:28304",
+      "name": "discounts-new / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:28402",
+      "name": "discounts-new / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1409
+    },
+    {
+      "id": "33:28482",
+      "name": "discounts-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:28590",
+      "name": "discounts-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:28694",
+      "name": "discounts-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:28747",
+      "name": "discounts-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:28813",
+      "name": "discounts-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 981
+    },
+    {
+      "id": "33:28917",
+      "name": "discounts-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29011",
+      "name": "discounts-archived / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29062",
+      "name": "discounts-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29158",
+      "name": "discounts-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29252",
+      "name": "discounts-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29366",
+      "name": "discounts-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29433",
+      "name": "discounts-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29487",
+      "name": "discounts-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29540",
+      "name": "discounts-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29593",
+      "name": "discounts-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29655",
+      "name": "reviews / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29733",
+      "name": "reviews / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:29787",
+      "name": "reviews-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29860",
+      "name": "reviews-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:29937",
+      "name": "reviews-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30008",
+      "name": "reviews-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30061",
+      "name": "reviews-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30130",
+      "name": "reviews-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30201",
+      "name": "reviews-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30305",
+      "name": "reviews-archived / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30356",
+      "name": "reviews-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30455",
+      "name": "reviews-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30552",
+      "name": "reviews-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30669",
+      "name": "reviews-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30736",
+      "name": "reviews-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30788",
+      "name": "reviews-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30841",
+      "name": "reviews-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30894",
+      "name": "reviews-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:30956",
+      "name": "delivery / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31034",
+      "name": "delivery / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:31088",
+      "name": "delivery-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31156",
+      "name": "delivery-new / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31237",
+      "name": "delivery-new / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1079
+    },
+    {
+      "id": "33:31299",
+      "name": "delivery-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31390",
+      "name": "delivery-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31477",
+      "name": "delivery-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31530",
+      "name": "delivery-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31596",
+      "name": "delivery-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31683",
+      "name": "delivery-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31777",
+      "name": "delivery-archived / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31828",
+      "name": "delivery-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:31924",
+      "name": "delivery-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32018",
+      "name": "delivery-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32132",
+      "name": "delivery-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32199",
+      "name": "delivery-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32253",
+      "name": "delivery-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32306",
+      "name": "delivery-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32359",
+      "name": "delivery-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32421",
+      "name": "staff / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32499",
+      "name": "staff / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:32553",
+      "name": "staff-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32625",
+      "name": "staff-new / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32695",
+      "name": "staff-new / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 859
+    },
+    {
+      "id": "33:32745",
+      "name": "staff-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32825",
+      "name": "staff-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32901",
+      "name": "staff-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:32954",
+      "name": "staff-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33020",
+      "name": "staff-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33096",
+      "name": "staff-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33190",
+      "name": "staff-archived / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33241",
+      "name": "staff-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33337",
+      "name": "staff-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33431",
+      "name": "staff-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33545",
+      "name": "staff-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33612",
+      "name": "staff-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33666",
+      "name": "staff-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33719",
+      "name": "staff-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33772",
+      "name": "staff-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33833",
+      "name": "staff-role / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:33907",
+      "name": "staff-role-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34001",
+      "name": "staff-role-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34059",
+      "name": "staff-invite-expired / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34113",
+      "name": "audit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34191",
+      "name": "audit / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1071
+    },
+    {
+      "id": "33:34245",
+      "name": "audit-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34315",
+      "name": "audit-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 1026
+    },
+    {
+      "id": "33:34438",
+      "name": "audit-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34505",
+      "name": "audit-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34557",
+      "name": "audit-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34610",
+      "name": "audit-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34663",
+      "name": "audit-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34725",
+      "name": "settings / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34822",
+      "name": "settings / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1488
+    },
+    {
+      "id": "33:34913",
+      "name": "settings-detail / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:34978",
+      "name": "settings-edit / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35080",
+      "name": "settings-invalid / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35178",
+      "name": "settings-saving / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35231",
+      "name": "settings-saved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35294",
+      "name": "settings-save-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35392",
+      "name": "settings-confirm / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35460",
+      "name": "settings-blocked / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35530",
+      "name": "settings-unsaved / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35598",
+      "name": "settings-filters / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35686",
+      "name": "settings-filtered / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35753",
+      "name": "settings-empty / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35805",
+      "name": "settings-loading / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35858",
+      "name": "settings-error / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35911",
+      "name": "settings-export / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:35972",
+      "name": "settings-integration / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:36041",
+      "name": "settings-integration-ok / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:36093",
+      "name": "access-denied / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:36141",
+      "name": "access-denied / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "33:36159",
+      "name": "admin-session / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:36237",
+      "name": "admin-session / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "id": "33:36280",
+      "name": "admin-signin / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:36344",
+      "name": "admin-menu / desktop",
+      "page": "33:16120",
+      "width": 1440,
+      "height": 980
+    },
+    {
+      "id": "33:36419",
+      "name": "admin-menu / mobile",
+      "page": "33:16120",
+      "width": 390,
+      "height": 1197
+    }
+  ],
+  "warnings": [
+    {
+      "screen": "home / desktop",
+      "node": "26:125",
+      "name": "₦185,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:126",
+      "name": "₦159,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:129",
+      "name": "New arrival",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:130",
+      "name": "PS5 Slim restock — back in Computer Village",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:133",
+      "name": "Offer",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:134",
+      "name": "Free delivery in Lagos this week",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:137",
+      "name": "Coming soon",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:138",
+      "name": "Check any device's IMEI yourself before you buy",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:141",
+      "name": "New arrival",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:142",
+      "name": "Galaxy S24 Ultra — now in stock",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:145",
+      "name": "Offer",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:146",
+      "name": "iPhone 13 Pro 256GB",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:149",
+      "name": "₦680,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:150",
+      "name": "₦620,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:153",
+      "name": "New arrival",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:154",
+      "name": "MacBook Air M2, UK-used Grade A",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:157",
+      "name": "Offer",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:158",
+      "name": "AirPods Pro 2",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:161",
+      "name": "₦185,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:162",
+      "name": "₦159,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:165",
+      "name": "New arrival",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:166",
+      "name": "PS5 Slim restock — back in Computer Village",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:169",
+      "name": "Offer",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:170",
+      "name": "Free delivery in Lagos this week",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:173",
+      "name": "Coming soon",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:174",
+      "name": "Check any device's IMEI yourself before you buy",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:254",
+      "name": "Just landed in Computer Village.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:256",
+      "name": "This week's fresh stock — checked, graded, and rea",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "I26:258;6:59",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "I26:259;6:64",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:265",
+      "name": "12 new listings this week",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:270",
+      "name": "Checked before listing",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:277",
+      "name": "New",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:280",
+      "name": "Galaxy S24 Ultra",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:282",
+      "name": "₦1,150,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:288",
+      "name": "UK Used",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:291",
+      "name": "MacBook Air M2",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:293",
+      "name": "₦980,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:302",
+      "name": "AirPods Pro 2",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:304",
+      "name": "New",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:307",
+      "name": "₦159,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:311",
+      "name": "Save up to ₦60,000 this week.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:313",
+      "name": "Selected UK-used phones and laptops, discounted fo",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "I26:315;6:73",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "I26:316;6:78",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:323",
+      "name": "Offers end Sunday",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:328",
+      "name": "Still fully verified",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:331",
+      "name": "Save up to",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:333",
+      "name": "₦60k",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:335",
+      "name": "on selected UK-used devices",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:339",
+      "name": "iPhone 13 Pro 256GB",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:342",
+      "name": "₦680,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:343",
+      "name": "₦620,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:347",
+      "name": "UK-used doesn't mean unknown.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:349",
+      "name": "Every used device gets a condition grade and a bat",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "I26:351;6:59",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "I26:352;6:64",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:360",
+      "name": "Graded on 12 checkpoints",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:366",
+      "name": "Battery health always listed",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:368",
+      "name": "Coming soon: IMEI checker",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:371",
+      "name": "Inspection report",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:373",
+      "name": "iPhone 13 Pro · UK Used",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:376",
+      "name": "Screen",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:382",
+      "name": "Grade A",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:385",
+      "name": "Body & frame",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:391",
+      "name": "Grade B+",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:394",
+      "name": "Battery health",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:400",
+      "name": "88%",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:403",
+      "name": "IMEI",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / desktop",
+      "node": "26:409",
+      "name": "Verified",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:595",
+      "name": "iPhone 13 Pro 256GB",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:598",
+      "name": "₦680,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:599",
+      "name": "₦620,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:602",
+      "name": "New arrival",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:603",
+      "name": "MacBook Air M2, UK-used Grade A",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:606",
+      "name": "Offer",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:607",
+      "name": "AirPods Pro 2",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:610",
+      "name": "₦185,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:611",
+      "name": "₦159,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:614",
+      "name": "New arrival",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:615",
+      "name": "PS5 Slim restock — back in Computer Village",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:618",
+      "name": "Offer",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:619",
+      "name": "Free delivery in Lagos this week",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:622",
+      "name": "Coming soon",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:623",
+      "name": "Check any device's IMEI yourself before you buy",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:626",
+      "name": "New arrival",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:627",
+      "name": "Galaxy S24 Ultra — now in stock",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:630",
+      "name": "Offer",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:631",
+      "name": "iPhone 13 Pro 256GB",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:634",
+      "name": "₦680,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:635",
+      "name": "₦620,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:638",
+      "name": "New arrival",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:639",
+      "name": "MacBook Air M2, UK-used Grade A",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:642",
+      "name": "Offer",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:643",
+      "name": "AirPods Pro 2",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:646",
+      "name": "₦185,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:647",
+      "name": "₦159,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:650",
+      "name": "New arrival",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:651",
+      "name": "PS5 Slim restock — back in Computer Village",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:654",
+      "name": "Offer",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:655",
+      "name": "Free delivery in Lagos this week",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:658",
+      "name": "Coming soon",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:659",
+      "name": "Check any device's IMEI yourself before you buy",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:732",
+      "name": "New",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:735",
+      "name": "Galaxy S24 Ultra",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:737",
+      "name": "₦1,150,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:743",
+      "name": "UK Used",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:746",
+      "name": "MacBook Air M2",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:748",
+      "name": "₦980,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:757",
+      "name": "AirPods Pro 2",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:759",
+      "name": "New",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:762",
+      "name": "₦159,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:765",
+      "name": "Just landed in Computer Village.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:767",
+      "name": "This week's fresh stock — checked, graded, and rea",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "I26:769;6:59",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "I26:770;6:64",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:776",
+      "name": "12 new listings this week",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:781",
+      "name": "Checked before listing",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:785",
+      "name": "Save up to ₦60,000 this week.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:787",
+      "name": "Selected UK-used phones and laptops, discounted fo",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "I26:789;6:73",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "I26:790;6:78",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:797",
+      "name": "Offers end Sunday",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:802",
+      "name": "Still fully verified",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:805",
+      "name": "Save up to",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:807",
+      "name": "₦60k",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:809",
+      "name": "on selected UK-used devices",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:813",
+      "name": "iPhone 13 Pro 256GB",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:816",
+      "name": "₦680,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:817",
+      "name": "₦620,000",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:821",
+      "name": "Inspection report",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:823",
+      "name": "iPhone 13 Pro · UK Used",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:826",
+      "name": "Screen",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:832",
+      "name": "Grade A",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:835",
+      "name": "Body & frame",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:841",
+      "name": "Grade B+",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:844",
+      "name": "Battery health",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:850",
+      "name": "88%",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:853",
+      "name": "IMEI",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:859",
+      "name": "Verified",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:862",
+      "name": "UK-used doesn't mean unknown.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:864",
+      "name": "Every used device gets a condition grade and a bat",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "I26:866;6:59",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "I26:867;6:64",
+      "name": "Label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:875",
+      "name": "Graded on 12 checkpoints",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:881",
+      "name": "Battery health always listed",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "home / mobile",
+      "node": "26:883",
+      "name": "Coming soon: IMEI checker",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "search / mobile",
+      "node": "I26:1105;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "search / mobile",
+      "node": "I26:1105;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1780;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1780;26:68",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1780;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1786;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1786;26:68",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1786;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1792;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1792;26:68",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1792;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1798;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1798;26:68",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1798;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1804;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1804;26:68",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "filters / mobile",
+      "node": "I26:1804;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "browse-error / mobile",
+      "node": "I26:2233;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "browse-error / mobile",
+      "node": "I26:2233;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sold-out / mobile",
+      "node": "I26:3233;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sold-out / mobile",
+      "node": "I26:3233;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify / mobile",
+      "node": "I26:3315;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify / mobile",
+      "node": "I26:3315;26:68",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify / mobile",
+      "node": "I26:3315;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify-error / mobile",
+      "node": "I26:3394;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify-error / mobile",
+      "node": "I26:3394;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify-error / mobile",
+      "node": "I26:3399;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify-error / mobile",
+      "node": "I26:3399;26:78",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify-error / mobile",
+      "node": "I26:3399;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify-success / mobile",
+      "node": "I26:3466;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "notify-success / mobile",
+      "node": "I26:3466;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "added / mobile",
+      "node": "I26:3530;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "added / mobile",
+      "node": "I26:3530;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "added-used / mobile",
+      "node": "I26:3597;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "added-used / mobile",
+      "node": "I26:3597;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "added-laptop / mobile",
+      "node": "I26:3664;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "added-laptop / mobile",
+      "node": "I26:3664;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "added-variant / mobile",
+      "node": "I26:3731;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "added-variant / mobile",
+      "node": "I26:3731;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "add-error / mobile",
+      "node": "I26:3798;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "add-error / mobile",
+      "node": "I26:3798;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "stock-lost / mobile",
+      "node": "I26:3865;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "stock-lost / mobile",
+      "node": "I26:3865;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-limit / mobile",
+      "node": "I26:4038;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-limit / mobile",
+      "node": "I26:4038;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-reduced / mobile",
+      "node": "I26:4131;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-reduced / mobile",
+      "node": "I26:4131;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-removed / mobile",
+      "node": "I26:4279;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-removed / mobile",
+      "node": "I26:4279;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-price / mobile",
+      "node": "I26:4403;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-price / mobile",
+      "node": "I26:4403;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-stock / mobile",
+      "node": "I26:4481;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-stock / mobile",
+      "node": "I26:4481;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-error / mobile",
+      "node": "I26:4553;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cart-error / mobile",
+      "node": "I26:4553;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin / mobile",
+      "node": "I26:4959;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin / mobile",
+      "node": "I26:4959;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin / mobile",
+      "node": "I26:4965;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin / mobile",
+      "node": "I26:4965;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-invalid / mobile",
+      "node": "I26:5041;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-invalid / mobile",
+      "node": "I26:5041;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-invalid / mobile",
+      "node": "I26:5046;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-invalid / mobile",
+      "node": "I26:5046;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-invalid / mobile",
+      "node": "I26:5052;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-invalid / mobile",
+      "node": "I26:5052;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-error / mobile",
+      "node": "I26:5110;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-error / mobile",
+      "node": "I26:5110;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-error / mobile",
+      "node": "I26:5115;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-error / mobile",
+      "node": "I26:5115;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-error / mobile",
+      "node": "I26:5121;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signin-error / mobile",
+      "node": "I26:5121;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "auth-limited / mobile",
+      "node": "I26:5208;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "auth-limited / mobile",
+      "node": "I26:5208;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup / mobile",
+      "node": "I26:5277;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup / mobile",
+      "node": "I26:5277;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup / mobile",
+      "node": "I26:5283;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup / mobile",
+      "node": "I26:5283;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup / mobile",
+      "node": "I26:5289;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup / mobile",
+      "node": "I26:5289;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup / mobile",
+      "node": "I26:5295;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup / mobile",
+      "node": "I26:5295;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5368;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5368;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5373;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5373;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5379;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5379;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5385;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5385;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5391;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "signup-error / mobile",
+      "node": "I26:5391;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "verify-email / mobile",
+      "node": "I26:5438;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "verify-email / mobile",
+      "node": "I26:5438;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "email-resent / mobile",
+      "node": "I26:5485;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "email-resent / mobile",
+      "node": "I26:5485;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "email-expired / mobile",
+      "node": "I26:5525;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "email-expired / mobile",
+      "node": "I26:5525;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "account-created / mobile",
+      "node": "I26:5568;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "account-created / mobile",
+      "node": "I26:5568;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "phone / mobile",
+      "node": "I26:5619;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "phone / mobile",
+      "node": "I26:5619;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp / mobile",
+      "node": "I26:5675;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp / mobile",
+      "node": "I26:5675;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp-error / mobile",
+      "node": "I26:5735;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp-error / mobile",
+      "node": "I26:5735;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp-error / mobile",
+      "node": "I26:5740;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp-error / mobile",
+      "node": "I26:5740;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp-expired / mobile",
+      "node": "I26:5785;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp-expired / mobile",
+      "node": "I26:5785;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp-resent / mobile",
+      "node": "I26:5828;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "otp-resent / mobile",
+      "node": "I26:5828;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sms-error / mobile",
+      "node": "I26:5873;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sms-error / mobile",
+      "node": "I26:5873;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "google / mobile",
+      "node": "I26:5919;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "google / mobile",
+      "node": "I26:5919;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "google-cancel / mobile",
+      "node": "I26:5965;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "google-cancel / mobile",
+      "node": "I26:5965;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "google-error / mobile",
+      "node": "I26:6008;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "google-error / mobile",
+      "node": "I26:6008;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "reset / mobile",
+      "node": "I26:6057;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "reset / mobile",
+      "node": "I26:6057;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "reset-sent / mobile",
+      "node": "I26:6102;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "reset-sent / mobile",
+      "node": "I26:6102;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "new-password / mobile",
+      "node": "I26:6158;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "new-password / mobile",
+      "node": "I26:6158;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "new-password / mobile",
+      "node": "I26:6164;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "new-password / mobile",
+      "node": "I26:6164;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "password-error / mobile",
+      "node": "I26:6220;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "password-error / mobile",
+      "node": "I26:6220;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "password-error / mobile",
+      "node": "I26:6225;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "password-error / mobile",
+      "node": "I26:6225;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "password-error / mobile",
+      "node": "I26:6231;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "password-error / mobile",
+      "node": "I26:6231;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "password-saved / mobile",
+      "node": "I26:6271;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "password-saved / mobile",
+      "node": "I26:6271;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "reset-expired / mobile",
+      "node": "I26:6311;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "reset-expired / mobile",
+      "node": "I26:6311;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile / mobile",
+      "node": "I26:6441;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile / mobile",
+      "node": "I26:6441;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile / mobile",
+      "node": "I26:6447;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile / mobile",
+      "node": "I26:6447;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile / mobile",
+      "node": "I26:6453;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile / mobile",
+      "node": "I26:6453;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile-saved / mobile",
+      "node": "I26:6499;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile-saved / mobile",
+      "node": "I26:6499;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile-error / mobile",
+      "node": "I26:6551;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile-error / mobile",
+      "node": "I26:6551;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile-error / mobile",
+      "node": "I26:6556;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile-error / mobile",
+      "node": "I26:6556;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile-error / mobile",
+      "node": "I26:6562;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "profile-error / mobile",
+      "node": "I26:6562;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "session-expired / mobile",
+      "node": "I26:6694;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "session-expired / mobile",
+      "node": "I26:6694;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6922;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6922;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6928;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6928;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6934;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6934;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6940;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6940;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6946;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6946;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6952;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-new / mobile",
+      "node": "I26:6952;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7035;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7035;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7041;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7041;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7047;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7047;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7053;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7053;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7059;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7059;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7065;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-edit / mobile",
+      "node": "I26:7065;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7133;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7133;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7138;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7138;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7144;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7144;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7150;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7150;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7156;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-error / mobile",
+      "node": "I26:7156;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7235;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7235;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7240;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7240;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7246;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7246;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7252;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7252;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7258;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7258;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7264;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7264;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7270;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-save-error / mobile",
+      "node": "I26:7270;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-saved / mobile",
+      "node": "I26:7319;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-saved / mobile",
+      "node": "I26:7319;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-deleted / mobile",
+      "node": "I26:7433;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "address-deleted / mobile",
+      "node": "I26:7433;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-unavailable / mobile",
+      "node": "I26:7492;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-unavailable / mobile",
+      "node": "I26:7492;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon / mobile",
+      "node": "I26:7579;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon / mobile",
+      "node": "I26:7579;26:68",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon / mobile",
+      "node": "I26:7579;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-applied / mobile",
+      "node": "I26:7644;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-applied / mobile",
+      "node": "I26:7644;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-invalid / mobile",
+      "node": "I26:7735;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-invalid / mobile",
+      "node": "I26:7735;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-invalid / mobile",
+      "node": "I26:7740;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-invalid / mobile",
+      "node": "I26:7740;26:78",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-invalid / mobile",
+      "node": "I26:7740;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-expired / mobile",
+      "node": "I26:7816;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-expired / mobile",
+      "node": "I26:7816;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-expired / mobile",
+      "node": "I26:7821;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-expired / mobile",
+      "node": "I26:7821;26:78",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-expired / mobile",
+      "node": "I26:7821;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-minimum / mobile",
+      "node": "I26:7897;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-minimum / mobile",
+      "node": "I26:7897;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-minimum / mobile",
+      "node": "I26:7902;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-minimum / mobile",
+      "node": "I26:7902;26:78",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "coupon-minimum / mobile",
+      "node": "I26:7902;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "checkout-repriced / mobile",
+      "node": "I26:7957;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "checkout-repriced / mobile",
+      "node": "I26:7957;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "checkout-stock / mobile",
+      "node": "I26:8012;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "checkout-stock / mobile",
+      "node": "I26:8012;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "reservation-expired / mobile",
+      "node": "I26:8279;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "reservation-expired / mobile",
+      "node": "I26:8279;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "paystack / mobile",
+      "node": "I26:8802;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "paystack / mobile",
+      "node": "I26:8802;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-discounted / mobile",
+      "node": "I26:8861;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-discounted / mobile",
+      "node": "I26:8861;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-repriced / mobile",
+      "node": "I26:8916;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-repriced / mobile",
+      "node": "I26:8916;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-init-error / mobile",
+      "node": "I26:8967;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-init-error / mobile",
+      "node": "I26:8967;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-delayed / mobile",
+      "node": "I26:9203;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-delayed / mobile",
+      "node": "I26:9203;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-cancelled / mobile",
+      "node": "I26:9256;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-cancelled / mobile",
+      "node": "I26:9256;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-failed / mobile",
+      "node": "I26:9299;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-failed / mobile",
+      "node": "I26:9299;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-review / mobile",
+      "node": "I26:9349;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "payment-review / mobile",
+      "node": "I26:9349;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "order-success / mobile",
+      "node": "I26:9409;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "order-success / mobile",
+      "node": "I26:9409;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "success-discounted / mobile",
+      "node": "I26:9469;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "success-discounted / mobile",
+      "node": "I26:9469;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "success-repriced / mobile",
+      "node": "I26:9526;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "success-repriced / mobile",
+      "node": "I26:9526;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-used-payment / mobile",
+      "node": "I26:9588;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-used-payment / mobile",
+      "node": "I26:9588;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-used-pending / mobile",
+      "node": "I26:9708;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-used-pending / mobile",
+      "node": "I26:9708;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-used-success / mobile",
+      "node": "I26:9764;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-used-success / mobile",
+      "node": "I26:9764;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-laptop-payment / mobile",
+      "node": "I26:9826;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-laptop-payment / mobile",
+      "node": "I26:9826;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-laptop-pending / mobile",
+      "node": "I26:9946;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-laptop-pending / mobile",
+      "node": "I26:9946;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-laptop-success / mobile",
+      "node": "I26:10002;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-laptop-success / mobile",
+      "node": "I26:10002;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-variant-payment / mobile",
+      "node": "I26:10064;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-variant-payment / mobile",
+      "node": "I26:10064;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-variant-pending / mobile",
+      "node": "I26:10184;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-variant-pending / mobile",
+      "node": "I26:10184;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-variant-success / mobile",
+      "node": "I26:10240;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-variant-success / mobile",
+      "node": "I26:10240;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-reduced-payment / mobile",
+      "node": "I26:10302;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-reduced-payment / mobile",
+      "node": "I26:10302;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-reduced-pending / mobile",
+      "node": "I26:10422;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-reduced-pending / mobile",
+      "node": "I26:10422;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-reduced-success / mobile",
+      "node": "I26:10478;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-reduced-success / mobile",
+      "node": "I26:10478;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-removed-payment / mobile",
+      "node": "I26:10540;26:86",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-removed-payment / mobile",
+      "node": "I26:10540;26:87",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-removed-pending / mobile",
+      "node": "I26:10660;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-removed-pending / mobile",
+      "node": "I26:10660;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-removed-success / mobile",
+      "node": "I26:10716;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "context-removed-success / mobile",
+      "node": "I26:10716;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "orders-error / mobile",
+      "node": "I26:10878;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "orders-error / mobile",
+      "node": "I26:10878;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "order-pending / mobile",
+      "node": "I26:10934;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "order-pending / mobile",
+      "node": "I26:10934;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-delayed / mobile",
+      "node": "I26:11181;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-delayed / mobile",
+      "node": "I26:11181;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cancel-order / mobile",
+      "node": "I26:11357;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cancel-order / mobile",
+      "node": "I26:11357;26:68",
+      "name": "Enter a value",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cancel-order / mobile",
+      "node": "I26:11357;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cancel-requested / mobile",
+      "node": "I26:11398;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "cancel-requested / mobile",
+      "node": "I26:11398;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "order-delivered / mobile",
+      "node": "I26:11450;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "order-delivered / mobile",
+      "node": "I26:11450;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review / mobile",
+      "node": "I26:11523;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review / mobile",
+      "node": "I26:11523;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review / mobile",
+      "node": "I26:11529;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review / mobile",
+      "node": "I26:11529;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review / mobile",
+      "node": "I26:11535;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review / mobile",
+      "node": "I26:11535;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review-error / mobile",
+      "node": "I26:11593;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review-error / mobile",
+      "node": "I26:11593;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review-error / mobile",
+      "node": "I26:11598;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review-error / mobile",
+      "node": "I26:11598;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review-error / mobile",
+      "node": "I26:11604;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review-error / mobile",
+      "node": "I26:11604;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review-success / mobile",
+      "node": "I26:11644;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "review-success / mobile",
+      "node": "I26:11644;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-request / mobile",
+      "node": "I26:11708;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-request / mobile",
+      "node": "I26:11708;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-request / mobile",
+      "node": "I26:11714;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-request / mobile",
+      "node": "I26:11714;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-request / mobile",
+      "node": "I26:11720;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-request / mobile",
+      "node": "I26:11720;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-request / mobile",
+      "node": "I26:11726;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-request / mobile",
+      "node": "I26:11726;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-error / mobile",
+      "node": "I26:11783;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-error / mobile",
+      "node": "I26:11783;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-error / mobile",
+      "node": "I26:11788;26:76",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-error / mobile",
+      "node": "I26:11788;26:79",
+      "name": "Please check this field.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-success / mobile",
+      "node": "I26:11841;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "return-success / mobile",
+      "node": "I26:11841;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support / mobile",
+      "node": "I26:11907;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support / mobile",
+      "node": "I26:11907;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support / mobile",
+      "node": "I26:11913;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support / mobile",
+      "node": "I26:11913;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support / mobile",
+      "node": "I26:11919;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support / mobile",
+      "node": "I26:11919;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support-sent / mobile",
+      "node": "I26:11977;26:95",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support-sent / mobile",
+      "node": "I26:11977;26:96",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support-error / mobile",
+      "node": "I26:12027;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "support-error / mobile",
+      "node": "I26:12027;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:16992;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:16992;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:16998;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:16998;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17004;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17004;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17010;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17010;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17016;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17016;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17022;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17022;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17028;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17028;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17034;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17034;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17040;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17040;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17046;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "products-new / mobile",
+      "node": "I33:17046;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18547;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18547;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18553;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18553;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18559;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18559;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18565;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18565;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18571;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18571;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18577;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "categories-new / mobile",
+      "node": "I33:18577;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20004;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20004;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20010;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20010;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20016;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20016;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20022;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20022;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20028;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "brands-new / mobile",
+      "node": "I33:20028;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21466;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21466;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21472;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21472;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21478;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21478;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21484;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21484;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21490;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21490;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21496;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21496;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21502;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21502;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21508;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "inventory-new / mobile",
+      "node": "I33:21508;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24426;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24426;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24432;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24432;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24438;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24438;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24444;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24444;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24450;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "sale-new / mobile",
+      "node": "I33:24450;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28411;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28411;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28417;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28417;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28423;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28423;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28429;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28429;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28435;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28435;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28441;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28441;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28447;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28447;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28453;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28453;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28459;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "discounts-new / mobile",
+      "node": "I33:28459;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31246;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31246;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31252;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31252;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31258;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31258;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31264;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31264;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31270;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31270;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31276;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "delivery-new / mobile",
+      "node": "I33:31276;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "staff-new / mobile",
+      "node": "I33:32704;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "staff-new / mobile",
+      "node": "I33:32704;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "staff-new / mobile",
+      "node": "I33:32710;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "staff-new / mobile",
+      "node": "I33:32710;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "staff-new / mobile",
+      "node": "I33:32716;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "staff-new / mobile",
+      "node": "I33:32716;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "staff-new / mobile",
+      "node": "I33:32722;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "staff-new / mobile",
+      "node": "I33:32722;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34832;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34832;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34838;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34838;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34844;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34844;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34850;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34850;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34856;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34856;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34862;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34862;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34868;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34868;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34874;26:66",
+      "name": "Field label",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "settings / mobile",
+      "node": "I33:34874;26:69",
+      "name": "Helpful guidance",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "access-denied / mobile",
+      "node": "I33:36148;26:89",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "access-denied / mobile",
+      "node": "I33:36148;26:90",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "admin-session / mobile",
+      "node": "I33:36269;26:92",
+      "name": "Status title",
+      "reason": "Text extends outside viewport"
+    },
+    {
+      "screen": "admin-session / mobile",
+      "node": "I33:36269;26:93",
+      "name": "Status description and a useful next step.",
+      "reason": "Text extends outside viewport"
+    }
+  ],
+  "links": 8678
+}
