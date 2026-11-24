@@ -1,5 +1,5 @@
 import { createServerSupabaseClient } from "@/lib/supabase/server";
-import { SerializedIntakeForm, QuantityIntakeForm } from "@/components/AdminStockForms";
+import { SerializedIntakeForm, QuantityIntakeForm } from "@/components/admin/AdminStockForms";
 
 export default async function StockIntakePage() {
   const supabase = await createServerSupabaseClient();

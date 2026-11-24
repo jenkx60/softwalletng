@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import screens from "@/design/interaction-expansion/screen-inventory.json";
 import { getSupabasePublicEnv } from "@/lib/supabase/env";
 import { getAdminSectionData } from "@/lib/admin/sections";
-import { AdminRowAction } from "@/components/AdminRowAction";
+import { AdminRowAction } from "@/components/admin/AdminRowAction";
 import { createServerSupabaseClient } from "@/lib/supabase/server";
 
 const sections = new Set(["products", "categories", "brands", "inventory", "movements", "sale", "orders", "customers", "discounts", "reviews", "delivery", "staff", "audit", "settings"]);

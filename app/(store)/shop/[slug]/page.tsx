@@ -1,13 +1,13 @@
 import Link from "next/link";
-import { AddToBasket } from "@/components/CustomerBasket";
+import { AddToBasket } from "@/components/store/CustomerBasket";
 import { notFound } from "next/navigation";
 import { createClient } from "@supabase/supabase-js";
-import { SiteHeader } from "@/components/SiteHeader";
-import { SiteFooter } from "@/components/SiteFooter";
-import { PriceDisplay } from "@/components/PriceDisplay";
-import { ConditionTag } from "@/components/ConditionTag";
+import { SiteHeader } from "@/components/layout/SiteHeader";
+import { SiteFooter } from "@/components/layout/SiteFooter";
+import { PriceDisplay } from "@/components/store/PriceDisplay";
+import { ConditionTag } from "@/components/store/ConditionTag";
 import { getSupabasePublicEnv } from "@/lib/supabase/env";
-import { LiveProductPhoto } from "@/components/LiveProductPhoto";
+import { LiveProductPhoto } from "@/components/store/LiveProductPhoto";
 
 export default async function ShopProductPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;

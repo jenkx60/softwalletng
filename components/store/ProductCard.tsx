@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { Smartphone } from "lucide-react";
-import { ConditionTag } from "@/components/ConditionTag";
-import { PriceDisplay } from "@/components/PriceDisplay";
-import { StockDot } from "@/components/StockDot";
+import { ConditionTag } from "@/components/store/ConditionTag";
+import { PriceDisplay } from "@/components/store/PriceDisplay";
+import { StockDot } from "@/components/store/StockDot";
 import type { ProductCardModel } from "@/types/catalogue";
 
 function tagVariant(product: ProductCardModel) {

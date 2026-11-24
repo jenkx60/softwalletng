@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState, useMemo, useSyncExternalStore, useRef } from "react";
 import { useRouter } from "next/navigation";
-import { quoteBasket, startCheckout, openOrderPayment, type BasketLine, type QuotedLine } from "@/app/customer-actions";
+import { quoteBasket, startCheckout, openOrderPayment, type BasketLine, type QuotedLine } from "@/lib/account/actions";
 import { formatNaira } from "@/lib/format";
 
 const basketKey="softwallet-basket";

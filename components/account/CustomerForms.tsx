@@ -1,7 +1,7 @@
 "use client";
 import { useActionState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { saveCustomerAddress, deleteCustomerAddress, submitCustomerRequest, saveCustomerProfile, submitCustomerReview } from "@/app/customer-actions";
+import { saveCustomerAddress, deleteCustomerAddress, submitCustomerRequest, saveCustomerProfile, submitCustomerReview } from "@/lib/account/actions";
 import { createBrowserSupabaseClient } from "@/lib/supabase/client";
 
 export type SavedAddress = {id:string;recipient_name:string;phone:string;line1:string;city:string;state:string};

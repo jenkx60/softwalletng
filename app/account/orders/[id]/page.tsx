@@ -1,8 +1,8 @@
 import { notFound } from "next/navigation";
 import { requireCustomer } from "@/lib/auth/customer";
-import { CustomerShell } from "@/components/CustomerShell";
-import { CustomerPayment } from "@/components/CustomerPayment";
-import { RequestForm, ReviewForm } from "@/components/CustomerForms";
+import { CustomerShell } from "@/components/account/CustomerShell";
+import { CustomerPayment } from "@/components/account/CustomerPayment";
+import { RequestForm, ReviewForm } from "@/components/account/CustomerForms";
 import { formatNaira } from "@/lib/format";
 export default async function Page({params}:{params:Promise<{id:string}>}){
  const {id}=await params;const {user,db}=await requireCustomer(`/account/orders/${id}`);

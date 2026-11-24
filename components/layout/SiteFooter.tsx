@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Logo } from "@/components/SiteHeader";
+import { Logo } from "@/components/layout/SiteHeader";
 
 const columns = [
   {

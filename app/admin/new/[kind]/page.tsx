@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { AdminCatalogueForm } from "@/components/AdminCatalogueForm";
+import { AdminCatalogueForm } from "@/components/admin/AdminCatalogueForm";
 import { createServerSupabaseClient } from "@/lib/supabase/server";
 import { getSupabasePublicEnv } from "@/lib/supabase/env";
 

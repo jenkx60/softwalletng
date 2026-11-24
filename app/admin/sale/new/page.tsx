@@ -1,5 +1,5 @@
 import { createServerSupabaseClient } from "@/lib/supabase/server";
-import { SaleForm } from "@/components/AdminStockForms";
+import { SaleForm } from "@/components/admin/AdminStockForms";
 
 export default async function RecordSalePage() {
   const supabase = await createServerSupabaseClient();

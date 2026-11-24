@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { AdminManageForm, type Kind } from "@/components/AdminManageForm";
-import { AdminInviteForm } from "@/components/AdminInviteForm";
-import { AdminPhotoForm } from "@/components/AdminPhotoForm";
+import { AdminManageForm, type Kind } from "@/components/admin/AdminManageForm";
+import { AdminInviteForm } from "@/components/admin/AdminInviteForm";
+import { AdminPhotoForm } from "@/components/admin/AdminPhotoForm";
 import { createServerSupabaseClient } from "@/lib/supabase/server";
 
 export default async function ManagePage({ params, searchParams }: { params: Promise<{ kind: string }>; searchParams: Promise<{ productId?: string; photoUpload?: string }> }) {

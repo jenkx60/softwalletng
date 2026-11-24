@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { requireCustomer } from "@/lib/auth/customer";
-import { CustomerShell } from "@/components/CustomerShell";
-import { AddressForm, DeleteAddressForm } from "@/components/CustomerForms";
+import { CustomerShell } from "@/components/account/CustomerShell";
+import { AddressForm, DeleteAddressForm } from "@/components/account/CustomerForms";
 export default async function Page({searchParams}:{searchParams:Promise<{edit?:string}>}) {
  const {edit}=await searchParams;
  const {user,db}=await requireCustomer("/account/addresses");

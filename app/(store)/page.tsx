@@ -8,17 +8,17 @@ import {
   Package,
   Smartphone,
 } from "lucide-react";
-import { HeroCarousel } from "@/components/HeroCarousel";
-import { ProductCard } from "@/components/ProductCard";
-import { SiteFooter } from "@/components/SiteFooter";
-import { SiteHeader } from "@/components/SiteHeader";
-import { TickerBar } from "@/components/TickerBar";
+import { HeroCarousel } from "@/components/store/HeroCarousel";
+import { ProductCard } from "@/components/store/ProductCard";
+import { SiteFooter } from "@/components/layout/SiteFooter";
+import { SiteHeader } from "@/components/layout/SiteHeader";
+import { TickerBar } from "@/components/layout/TickerBar";
 import { categories, recentlyListed, tickerItems } from "@/lib/mock/catalogue";
 import { getSupabasePublicEnv } from "@/lib/supabase/env";
 import { createClient } from "@supabase/supabase-js";
-import { PriceDisplay } from "@/components/PriceDisplay";
-import { ConditionTag } from "@/components/ConditionTag";
-import { LiveProductPhoto } from "@/components/LiveProductPhoto";
+import { PriceDisplay } from "@/components/store/PriceDisplay";
+import { ConditionTag } from "@/components/store/ConditionTag";
+import { LiveProductPhoto } from "@/components/store/LiveProductPhoto";
 
 const categoryIcons = {
   phones: Smartphone,

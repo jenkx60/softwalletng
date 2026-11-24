@@ -1,10 +1,10 @@
 import Link from "next/link";
 import { createClient } from "@supabase/supabase-js";
-import { SiteHeader } from "@/components/SiteHeader";
-import { SiteFooter } from "@/components/SiteFooter";
-import { PriceDisplay } from "@/components/PriceDisplay";
-import { ConditionTag } from "@/components/ConditionTag";
-import { LiveProductPhoto } from "@/components/LiveProductPhoto";
+import { SiteHeader } from "@/components/layout/SiteHeader";
+import { SiteFooter } from "@/components/layout/SiteFooter";
+import { PriceDisplay } from "@/components/store/PriceDisplay";
+import { ConditionTag } from "@/components/store/ConditionTag";
+import { LiveProductPhoto } from "@/components/store/LiveProductPhoto";
 import { getSupabasePublicEnv } from "@/lib/supabase/env";
 
 export default async function ShopPage({searchParams}:{searchParams:Promise<{q?:string;category?:string;brand?:string;condition?:string;sort?:string;page?:string}>}){

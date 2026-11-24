@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { openOrderPayment, verifyOrderPayment, cancelPendingCheckout } from "@/app/customer-actions";
+import { openOrderPayment, verifyOrderPayment, cancelPendingCheckout } from "@/lib/account/actions";
 
 export function CustomerPayment({orderId,status,review,purchasedItems=[],autoVerify=false}:{orderId:string;status:string;review:boolean;autoVerify?:boolean;purchasedItems?:{variant_id:string;quantity:number}[]}){
  const [message,setMessage]=useState("");const [busy,setBusy]=useState(false);const [current,setCurrent]=useState(status);const [needsReview,setNeedsReview]=useState(review);const router=useRouter();

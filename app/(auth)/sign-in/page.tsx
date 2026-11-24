@@ -1,5 +1,5 @@
-import { Logo } from "@/components/SiteHeader";
-import { SignInForm } from "@/components/SignInForm";
+import { Logo } from "@/components/layout/SiteHeader";
+import { SignInForm } from "@/components/account/SignInForm";
 
 export default function SignInPage() {
   return (

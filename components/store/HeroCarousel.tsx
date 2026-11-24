@@ -4,8 +4,8 @@ import { useEffect, useState, type ReactNode } from "react";
 import Link from "next/link";
 import { Battery, Check, Clock, MapPin, Route, Search, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { BatteryHealthBar } from "@/components/BatteryHealthBar";
-import { ConditionTag } from "@/components/ConditionTag";
+import { BatteryHealthBar } from "@/components/store/BatteryHealthBar";
+import { ConditionTag } from "@/components/store/ConditionTag";
 import { formatNaira } from "@/lib/format";
 
 const SLIDE_COUNT = 4;

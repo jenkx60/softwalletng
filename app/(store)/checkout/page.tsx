@@ -1,6 +1,6 @@
 import { redirect } from "next/navigation";
-import { CustomerBasket } from "@/components/CustomerBasket";
-import { SiteHeader } from "@/components/SiteHeader";
+import { CustomerBasket } from "@/components/store/CustomerBasket";
+import { SiteHeader } from "@/components/layout/SiteHeader";
 import { createServerSupabaseClient } from "@/lib/supabase/server";
 export default async function CheckoutPage(){
  const db=await createServerSupabaseClient();const {data:{user}}=await db.auth.getUser();

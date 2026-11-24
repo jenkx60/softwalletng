@@ -3,7 +3,7 @@
 import { useActionState, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { uploadProductPhoto } from "@/app/admin/actions";
-import { CompressedProductImages, type ImageInputStatus } from "@/components/CompressedProductImages";
+import { CompressedProductImages, type ImageInputStatus } from "@/components/admin/CompressedProductImages";
 
 export function AdminPhotoForm({ productId }: { productId: string }) {
   const [state, action, pending] = useActionState(uploadProductPhoto, null);

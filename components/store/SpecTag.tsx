@@ -1,4 +1,4 @@
-import { BatteryHealthBar } from "@/components/BatteryHealthBar";
+import { BatteryHealthBar } from "@/components/store/BatteryHealthBar";
 import { Check } from "lucide-react";
 
 export function SpecTag({
