@@ -12,8 +12,6 @@
 //   return createBrowserClient(env.url, env.anonKey);
 // }
 
-
-
 import { createBrowserClient } from "@supabase/ssr";
 import { getSupabasePublicEnv } from "@/lib/supabase/env";
 

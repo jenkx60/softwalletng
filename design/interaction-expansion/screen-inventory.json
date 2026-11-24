@@ -4,10 +4,7 @@
       "group": "01 · Discover & choose",
       "id": "home",
       "title": "Home",
-      "clone": [
-        "4:13",
-        "4:14"
-      ],
+      "clone": ["4:13", "4:14"],
       "desc": "Shop by condition, category, offer, or search. The existing visual design is retained.",
       "actions": [
         {
@@ -76,18 +73,8 @@
         }
       ],
       "rows": [
-        [
-          "iPhone 12",
-          "Phones · Apple",
-          "From ₦620,000",
-          "View"
-        ],
-        [
-          "iPhone 12 Pro",
-          "Phones · Apple",
-          "View availability",
-          "View"
-        ]
+        ["iPhone 12", "Phones · Apple", "From ₦620,000", "View"],
+        ["iPhone 12 Pro", "Phones · Apple", "View availability", "View"]
       ],
       "actions": [
         {
@@ -189,11 +176,7 @@
       "id": "laptops",
       "title": "Laptops",
       "kind": "catalog",
-      "products": [
-        "MacBook Air M1",
-        "HP EliteBook 840",
-        "Dell Latitude 5420"
-      ],
+      "products": ["MacBook Air M1", "HP EliteBook 840", "Dell Latitude 5420"],
       "actions": [
         {
           "label": "View laptop",
@@ -425,13 +408,7 @@
       "group": "01 · Discover & choose",
       "id": "mobile-menu",
       "title": "Browse Softwallet",
-      "choices": [
-        "Phones",
-        "Laptops",
-        "Gaming",
-        "Audio",
-        "Accessories"
-      ],
+      "choices": ["Phones", "Laptops", "Gaming", "Audio", "Accessories"],
       "actions": [
         {
           "label": "Phones",
@@ -469,10 +446,7 @@
       "group": "02 · Product & basket",
       "id": "product",
       "title": "iPhone 12",
-      "clone": [
-        "4:15",
-        "4:16"
-      ],
+      "clone": ["4:15", "4:16"],
       "desc": "Select a variant, inspect details, and add to cart or buy now.",
       "actions": [
         {
@@ -536,22 +510,10 @@
       "kind": "product",
       "desc": "Grade A · 128GB · Blue · 89% battery health · ₦460,000",
       "facts": [
-        [
-          "Condition",
-          "Minor signs of use"
-        ],
-        [
-          "Unit",
-          "SW-UNIT-0214"
-        ],
-        [
-          "Battery health",
-          "89%"
-        ],
-        [
-          "Included",
-          "Device only"
-        ]
+        ["Condition", "Minor signs of use"],
+        ["Unit", "SW-UNIT-0214"],
+        ["Battery health", "89%"],
+        ["Included", "Device only"]
       ],
       "actions": [
         {
@@ -578,22 +540,10 @@
       "kind": "product",
       "desc": "8GB RAM · 256GB SSD · Space Grey · UK-used",
       "facts": [
-        [
-          "Unit",
-          "SW-UNIT-0306"
-        ],
-        [
-          "Condition",
-          "Grade A"
-        ],
-        [
-          "Battery cycles",
-          "Shown after inspection"
-        ],
-        [
-          "Price",
-          "₦750,000"
-        ]
+        ["Unit", "SW-UNIT-0306"],
+        ["Condition", "Grade A"],
+        ["Battery cycles", "Shown after inspection"],
+        ["Price", "₦750,000"]
       ],
       "actions": [
         {
@@ -615,18 +565,9 @@
       "kind": "product",
       "desc": "New · Blue · ₦710,000 · 2 units available",
       "facts": [
-        [
-          "Storage",
-          "256GB selected"
-        ],
-        [
-          "Colour",
-          "Blue selected"
-        ],
-        [
-          "Condition",
-          "New"
-        ]
+        ["Storage", "256GB selected"],
+        ["Colour", "Blue selected"],
+        ["Condition", "New"]
       ],
       "actions": [
         {
@@ -689,18 +630,9 @@
       "id": "grading",
       "title": "Know exactly what you’re buying",
       "facts": [
-        [
-          "Grade A",
-          "Excellent appearance; minor signs of use."
-        ],
-        [
-          "Grade B",
-          "Visible wear; working functions are tested."
-        ],
-        [
-          "Grade C",
-          "Heavier cosmetic wear; inspect the specific listing."
-        ],
+        ["Grade A", "Excellent appearance; minor signs of use."],
+        ["Grade B", "Visible wear; working functions are tested."],
+        ["Grade C", "Heavier cosmetic wear; inspect the specific listing."],
         [
           "Before you buy",
           "Review actual unit photos, battery health, included items, and stated warranty."
@@ -725,18 +657,8 @@
       "id": "product-reviews",
       "title": "Customer reviews",
       "rows": [
-        [
-          "Amaka O.",
-          "Verified purchase",
-          "★★★★★",
-          "Great condition"
-        ],
-        [
-          "Tobi A.",
-          "Verified purchase",
-          "★★★★☆",
-          "Easy pickup"
-        ]
+        ["Amaka O.", "Verified purchase", "★★★★★", "Great condition"],
+        ["Tobi A.", "Verified purchase", "★★★★☆", "Easy pickup"]
       ],
       "actions": [
         {
@@ -1000,28 +922,12 @@
       "title": "Your cart",
       "kind": "cart",
       "rows": [
-        [
-          "iPhone 12 · 128GB",
-          "New · Blue",
-          "1 × ₦620,000",
-          "₦620,000"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12 · 128GB", "New · Blue", "1 × ₦620,000", "₦620,000"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Delivery",
-          "Calculated at checkout"
-        ]
+        ["Items", "₦654,000"],
+        ["Delivery", "Calculated at checkout"]
       ],
       "actions": [
         {
@@ -1076,32 +982,13 @@
       "state": "warning",
       "desc": "The quantity stays at 2. Choose another item or continue to checkout.",
       "rows": [
-        [
-          "iPhone 12 · 128GB",
-          "New · Blue",
-          "1 × ₦620,000",
-          "₦620,000"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12 · 128GB", "New · Blue", "1 × ₦620,000", "₦620,000"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Delivery · Ikeja",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦657,500"
-        ]
+        ["Items", "₦654,000"],
+        ["Delivery · Ikeja", "₦3,500"],
+        ["Total", "₦657,500"]
       ],
       "actions": [
         {
@@ -1123,28 +1010,12 @@
       "kind": "cart",
       "state": "success",
       "rows": [
-        [
-          "iPhone 12 · 128GB",
-          "New · Blue",
-          "1 × ₦620,000",
-          "₦620,000"
-        ],
-        [
-          "Apple 20W charger",
-          "White",
-          "1 × ₦17,000",
-          "₦17,000"
-        ]
+        ["iPhone 12 · 128GB", "New · Blue", "1 × ₦620,000", "₦620,000"],
+        ["Apple 20W charger", "White", "1 × ₦17,000", "₦17,000"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦637,000"
-        ],
-        [
-          "Delivery",
-          "Calculated at checkout"
-        ]
+        ["Items", "₦637,000"],
+        ["Delivery", "Calculated at checkout"]
       ],
       "actions": [
         {
@@ -1186,19 +1057,9 @@
       "kind": "cart",
       "state": "success",
       "rows": [
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
-      "totals": [
-        [
-          "Items",
-          "₦34,000"
-        ]
-      ],
+      "totals": [["Items", "₦34,000"]],
       "actions": [
         {
           "label": "Undo removal",
@@ -1244,25 +1105,10 @@
       "state": "warning",
       "desc": "iPhone 12 changed from ₦620,000 to ₦625,000. Review the updated total before continuing.",
       "rows": [
-        [
-          "iPhone 12",
-          "New · Blue",
-          "₦620,000 → ₦625,000",
-          "1 item"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12", "New · Blue", "₦620,000 → ₦625,000", "1 item"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
-      "totals": [
-        [
-          "Updated subtotal",
-          "₦659,000"
-        ]
-      ],
+      "totals": [["Updated subtotal", "₦659,000"]],
       "actions": [
         {
           "label": "Accept updated price",
@@ -1284,18 +1130,8 @@
       "state": "error",
       "desc": "The iPhone 12 cannot be checked out. Remove it or choose another unit. Your chargers are still available.",
       "rows": [
-        [
-          "iPhone 12",
-          "Unavailable",
-          "1 item",
-          "Remove"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12", "Unavailable", "1 item", "Remove"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
       "actions": [
         {
@@ -1318,18 +1154,8 @@
       "state": "error",
       "desc": "We kept the previous quantities and total. Try again when your connection returns.",
       "rows": [
-        [
-          "iPhone 12 · 128GB",
-          "New · Blue",
-          "1 × ₦620,000",
-          "₦620,000"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12 · 128GB", "New · Blue", "1 × ₦620,000", "₦620,000"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
       "actions": [
         {
@@ -2093,18 +1919,9 @@
       "id": "account",
       "title": "Hello, Amaka",
       "facts": [
-        [
-          "Email",
-          "amaka@example.com"
-        ],
-        [
-          "Saved addresses",
-          "2 addresses"
-        ],
-        [
-          "Orders",
-          "1 active order"
-        ]
+        ["Email", "amaka@example.com"],
+        ["Saved addresses", "2 addresses"],
+        ["Orders", "1 active order"]
       ],
       "actions": [
         {
@@ -2269,32 +2086,14 @@
       "kind": "checkout",
       "desc": "1 Delivery   →   2 Review   →   3 Secure payment",
       "facts": [
-        [
-          "Deliver to",
-          "Amaka Obi · 12 Example Street, Ikeja, Lagos"
-        ],
-        [
-          "Delivery fee",
-          "₦3,500"
-        ],
-        [
-          "Items",
-          "iPhone 12 + 2 Apple chargers"
-        ]
+        ["Deliver to", "Amaka Obi · 12 Example Street, Ikeja, Lagos"],
+        ["Delivery fee", "₦3,500"],
+        ["Items", "iPhone 12 + 2 Apple chargers"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Delivery · Ikeja",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦657,500"
-        ]
+        ["Items", "₦654,000"],
+        ["Delivery · Ikeja", "₦3,500"],
+        ["Total", "₦657,500"]
       ],
       "actions": [
         {
@@ -2336,14 +2135,8 @@
       "id": "addresses",
       "title": "Choose a delivery address",
       "facts": [
-        [
-          "Home · selected",
-          "Amaka Obi · 12 Example Street · Ikeja, Lagos"
-        ],
-        [
-          "Office",
-          "Amaka Obi · Example Business Centre · Yaba, Lagos"
-        ]
+        ["Home · selected", "Amaka Obi · 12 Example Street · Ikeja, Lagos"],
+        ["Office", "Amaka Obi · Example Business Centre · Yaba, Lagos"]
       ],
       "actions": [
         {
@@ -2596,12 +2389,7 @@
       "id": "address-saved",
       "title": "Address saved",
       "state": "success",
-      "facts": [
-        [
-          "Home",
-          "Amaka Obi · 12 Example Street · Ikeja, Lagos"
-        ]
-      ],
+      "facts": [["Home", "Amaka Obi · 12 Example Street · Ikeja, Lagos"]],
       "actions": [
         {
           "label": "Use for this order",
@@ -2640,12 +2428,7 @@
       "id": "address-deleted",
       "title": "Address deleted",
       "state": "success",
-      "facts": [
-        [
-          "Remaining address",
-          "Home · Ikeja, Lagos"
-        ]
-      ],
+      "facts": [["Remaining address", "Home · Ikeja, Lagos"]],
       "actions": [
         {
           "label": "Continue checkout",
@@ -2667,18 +2450,9 @@
       "state": "warning",
       "desc": "We cannot calculate a delivery fee for this address. Choose another address or contact the store to arrange delivery.",
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Delivery",
-          "Not configured"
-        ],
-        [
-          "Payment",
-          "Unavailable until delivery is confirmed"
-        ]
+        ["Items", "₦654,000"],
+        ["Delivery", "Not configured"],
+        ["Payment", "Unavailable until delivery is confirmed"]
       ],
       "actions": [
         {
@@ -2745,22 +2519,10 @@
       "state": "success",
       "desc": "WELCOME5000 · ₦5,000 off eligible items",
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Discount",
-          "−₦5,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦652,500"
-        ]
+        ["Items", "₦654,000"],
+        ["Discount", "−₦5,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦652,500"]
       ],
       "actions": [
         {
@@ -2870,18 +2632,9 @@
       "state": "info",
       "desc": "You accepted the new iPhone price of ₦625,000.",
       "totals": [
-        [
-          "Items",
-          "₦659,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦662,500"
-        ]
+        ["Items", "₦659,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦662,500"]
       ],
       "actions": [
         {
@@ -2921,32 +2674,13 @@
       "title": "Review your order",
       "kind": "checkout",
       "rows": [
-        [
-          "iPhone 12 · 128GB",
-          "New · Blue",
-          "1 × ₦620,000",
-          "₦620,000"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12 · 128GB", "New · Blue", "1 × ₦620,000", "₦620,000"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Delivery · Ikeja",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦657,500"
-        ]
+        ["Items", "₦654,000"],
+        ["Delivery · Ikeja", "₦3,500"],
+        ["Total", "₦657,500"]
       ],
       "desc": "Delivery to Amaka Obi · Ikeja, Lagos. Final stock and total are checked before opening Paystack.",
       "actions": [
@@ -2985,36 +2719,14 @@
       "title": "Review your discounted order",
       "kind": "checkout",
       "rows": [
-        [
-          "iPhone 12 · 128GB",
-          "New · Blue",
-          "1 × ₦620,000",
-          "₦620,000"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12 · 128GB", "New · Blue", "1 × ₦620,000", "₦620,000"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Discount",
-          "−₦5,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦652,500"
-        ]
+        ["Items", "₦654,000"],
+        ["Discount", "−₦5,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦652,500"]
       ],
       "actions": [
         {
@@ -3057,18 +2769,9 @@
       "state": "loading",
       "desc": "Checking availability and creating your payment reference. Please keep this page open.",
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Delivery · Ikeja",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦657,500"
-        ]
+        ["Items", "₦654,000"],
+        ["Delivery · Ikeja", "₦3,500"],
+        ["Total", "₦657,500"]
       ],
       "actions": [
         {
@@ -3086,18 +2789,9 @@
       "state": "info",
       "desc": "Paystack opens to collect payment. Softwallet never asks for your card details on this screen.",
       "facts": [
-        [
-          "Amount",
-          "₦657,500"
-        ],
-        [
-          "Reference",
-          "SW-DEMO-10482"
-        ],
-        [
-          "Merchant",
-          "Softwallet"
-        ]
+        ["Amount", "₦657,500"],
+        ["Reference", "SW-DEMO-10482"],
+        ["Merchant", "Softwallet"]
       ],
       "actions": [
         {
@@ -3119,12 +2813,7 @@
       "title": "Discounted payment",
       "state": "info",
       "desc": "Complete this ₦652,500 payment in Paystack. Returning to the store triggers a status check.",
-      "totals": [
-        [
-          "Amount due",
-          "₦652,500"
-        ]
-      ],
+      "totals": [["Amount due", "₦652,500"]],
       "actions": [
         {
           "label": "Return & verify",
@@ -3144,12 +2833,7 @@
       "title": "Updated-price payment",
       "state": "info",
       "desc": "Complete this ₦662,500 payment in Paystack. The new price has been accepted.",
-      "totals": [
-        [
-          "Amount due",
-          "₦662,500"
-        ]
-      ],
+      "totals": [["Amount due", "₦662,500"]],
       "actions": [
         {
           "label": "Return & verify",
@@ -3194,14 +2878,8 @@
       "state": "loading",
       "desc": "We’re checking your payment with Paystack. Please don’t pay again while we confirm the result.",
       "facts": [
-        [
-          "Reference",
-          "SW-DEMO-10482"
-        ],
-        [
-          "Amount",
-          "₦657,500"
-        ]
+        ["Reference", "SW-DEMO-10482"],
+        ["Amount", "₦657,500"]
       ],
       "actions": [
         {
@@ -3235,12 +2913,7 @@
       "title": "Confirming your payment",
       "state": "loading",
       "desc": "Please don’t pay again while we verify this transaction.",
-      "totals": [
-        [
-          "Amount",
-          "₦652,500"
-        ]
-      ],
+      "totals": [["Amount", "₦652,500"]],
       "actions": [
         {
           "label": "Verified payment",
@@ -3260,12 +2933,7 @@
       "title": "Confirming your payment",
       "state": "loading",
       "desc": "Please don’t pay again while we verify this transaction.",
-      "totals": [
-        [
-          "Amount",
-          "₦662,500"
-        ]
-      ],
+      "totals": [["Amount", "₦662,500"]],
       "actions": [
         {
           "label": "Verified payment",
@@ -3286,14 +2954,8 @@
       "state": "warning",
       "desc": "This is taking longer than usual. A charge may still be processing. Do not make another payment for this order yet.",
       "facts": [
-        [
-          "Reference",
-          "SW-DEMO-10482"
-        ],
-        [
-          "Order",
-          "Awaiting payment confirmation"
-        ]
+        ["Reference", "SW-DEMO-10482"],
+        ["Order", "Awaiting payment confirmation"]
       ],
       "actions": [
         {
@@ -3358,14 +3020,8 @@
       "state": "warning",
       "desc": "The payment details do not match this order. Please don’t pay again. Our team needs to verify the reference and amount.",
       "facts": [
-        [
-          "Reference",
-          "SW-DEMO-10482"
-        ],
-        [
-          "Order status",
-          "Payment under review"
-        ]
+        ["Reference", "SW-DEMO-10482"],
+        ["Order status", "Payment under review"]
       ],
       "actions": [
         {
@@ -3387,18 +3043,9 @@
       "state": "success",
       "desc": "Payment verified. We’re preparing your order.",
       "facts": [
-        [
-          "Order",
-          "SW-10482"
-        ],
-        [
-          "Paid",
-          "₦657,500"
-        ],
-        [
-          "Delivery",
-          "Ikeja, Lagos"
-        ]
+        ["Order", "SW-10482"],
+        ["Paid", "₦657,500"],
+        ["Delivery", "Ikeja, Lagos"]
       ],
       "actions": [
         {
@@ -3419,14 +3066,8 @@
       "title": "Payment verified",
       "state": "success",
       "facts": [
-        [
-          "Paid",
-          "₦652,500"
-        ],
-        [
-          "Status",
-          "Order confirmed"
-        ]
+        ["Paid", "₦652,500"],
+        ["Status", "Order confirmed"]
       ],
       "actions": [
         {
@@ -3447,14 +3088,8 @@
       "title": "Payment verified",
       "state": "success",
       "facts": [
-        [
-          "Paid",
-          "₦662,500"
-        ],
-        [
-          "Status",
-          "Order confirmed"
-        ]
+        ["Paid", "₦662,500"],
+        ["Status", "Order confirmed"]
       ],
       "actions": [
         {
@@ -3474,18 +3109,8 @@
       "id": "my-orders",
       "title": "My orders",
       "rows": [
-        [
-          "SW-10482",
-          "26 Oct 2026",
-          "₦657,500",
-          "Preparing"
-        ],
-        [
-          "SW-10361",
-          "12 Sep 2026",
-          "₦84,000",
-          "Delivered"
-        ]
+        ["SW-10482", "26 Oct 2026", "₦657,500", "Preparing"],
+        ["SW-10361", "12 Sep 2026", "₦84,000", "Delivered"]
       ],
       "actions": [
         {
@@ -3551,22 +3176,10 @@
       "title": "Order awaiting payment confirmation",
       "state": "warning",
       "facts": [
-        [
-          "Order",
-          "SW-10482"
-        ],
-        [
-          "Payment reference",
-          "SW-DEMO-10482"
-        ],
-        [
-          "Payment",
-          "Pending verification"
-        ],
-        [
-          "Fulfilment",
-          "Not started"
-        ]
+        ["Order", "SW-10482"],
+        ["Payment reference", "SW-DEMO-10482"],
+        ["Payment", "Pending verification"],
+        ["Fulfilment", "Not started"]
       ],
       "actions": [
         {
@@ -3595,32 +3208,13 @@
         "Delivered"
       ],
       "rows": [
-        [
-          "iPhone 12 · 128GB",
-          "New · Blue",
-          "1 × ₦620,000",
-          "₦620,000"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12 · 128GB", "New · Blue", "1 × ₦620,000", "₦620,000"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Delivery · Ikeja",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦657,500"
-        ]
+        ["Items", "₦654,000"],
+        ["Delivery · Ikeja", "₦3,500"],
+        ["Total", "₦657,500"]
       ],
       "actions": [
         {
@@ -3650,25 +3244,11 @@
       "id": "tracking",
       "title": "Your delivery is on the way",
       "kind": "order",
-      "steps": [
-        "Order confirmed",
-        "Packed",
-        "Out for delivery",
-        "Delivered"
-      ],
+      "steps": ["Order confirmed", "Packed", "Out for delivery", "Delivered"],
       "facts": [
-        [
-          "Destination",
-          "Ikeja, Lagos"
-        ],
-        [
-          "Latest update",
-          "Handed to delivery partner · 11:30 AM"
-        ],
-        [
-          "Tracking",
-          "SW-DEMO-10482"
-        ]
+        ["Destination", "Ikeja, Lagos"],
+        ["Latest update", "Handed to delivery partner · 11:30 AM"],
+        ["Tracking", "SW-DEMO-10482"]
       ],
       "actions": [
         {
@@ -3724,42 +3304,17 @@
       "id": "receipt",
       "title": "Receipt · SW-10482",
       "rows": [
-        [
-          "iPhone 12 · 128GB",
-          "New · Blue",
-          "1 × ₦620,000",
-          "₦620,000"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12 · 128GB", "New · Blue", "1 × ₦620,000", "₦620,000"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Delivery · Ikeja",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦657,500"
-        ]
+        ["Items", "₦654,000"],
+        ["Delivery · Ikeja", "₦3,500"],
+        ["Total", "₦657,500"]
       ],
       "facts": [
-        [
-          "Payment",
-          "Verified · Paystack"
-        ],
-        [
-          "Date",
-          "26 Oct 2026"
-        ]
+        ["Payment", "Verified · Paystack"],
+        ["Date", "26 Oct 2026"]
       ],
       "actions": [
         {
@@ -3818,18 +3373,9 @@
       "title": "Order delivered",
       "state": "success",
       "facts": [
-        [
-          "Order",
-          "SW-10361"
-        ],
-        [
-          "Delivered",
-          "12 Sep 2026"
-        ],
-        [
-          "Item",
-          "Audio accessory · ₦84,000"
-        ]
+        ["Order", "SW-10361"],
+        ["Delivered", "12 Sep 2026"],
+        ["Item", "Audio accessory · ₦84,000"]
       ],
       "actions": [
         {
@@ -4023,14 +3569,8 @@
       "title": "Your request has been received",
       "state": "success",
       "facts": [
-        [
-          "Request",
-          "SR-DEMO-204"
-        ],
-        [
-          "Status",
-          "Awaiting review"
-        ]
+        ["Request", "SR-DEMO-204"],
+        ["Status", "Awaiting review"]
       ],
       "desc": "We’ll contact you using the details on your order.",
       "actions": [
@@ -4096,14 +3636,8 @@
       "title": "We’ve received your message",
       "state": "success",
       "facts": [
-        [
-          "Request",
-          "HELP-DEMO-10482"
-        ],
-        [
-          "Reply to",
-          "amaka@example.com"
-        ]
+        ["Request", "HELP-DEMO-10482"],
+        ["Reply to", "amaka@example.com"]
       ],
       "actions": [
         {
@@ -4150,10 +3684,7 @@
           "Unavailable address",
           "Choose another address or contact the store before payment."
         ],
-        [
-          "Tracking",
-          "Updates appear on your order when fulfilment progresses."
-        ]
+        ["Tracking", "Updates appear on your order when fulfilment progresses."]
       ],
       "actions": [
         {
@@ -4203,19 +3734,9 @@
       "title": "Your cart",
       "kind": "cart",
       "rows": [
-        [
-          "iPhone 12 · UK-used · Grade A",
-          "Selected items",
-          "1",
-          "₦460,000"
-        ]
+        ["iPhone 12 · UK-used · Grade A", "Selected items", "1", "₦460,000"]
       ],
-      "totals": [
-        [
-          "Subtotal",
-          "₦460,000"
-        ]
-      ],
+      "totals": [["Subtotal", "₦460,000"]],
       "actions": [
         {
           "label": "Continue as Amaka",
@@ -4236,32 +3757,14 @@
       "title": "Review your order",
       "kind": "checkout",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 · UK-used · Grade A"
-        ],
-        [
-          "Quantity",
-          "1"
-        ],
-        [
-          "Deliver to",
-          "Amaka Obi · Ikeja, Lagos"
-        ]
+        ["Item", "iPhone 12 · UK-used · Grade A"],
+        ["Quantity", "1"],
+        ["Deliver to", "Amaka Obi · Ikeja, Lagos"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦460,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦463,500"
-        ]
+        ["Items", "₦460,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦463,500"]
       ],
       "actions": [
         {
@@ -4283,18 +3786,9 @@
       "state": "info",
       "desc": "Continue in Paystack. Returning here triggers verification; it does not confirm payment.",
       "totals": [
-        [
-          "Items",
-          "₦460,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦463,500"
-        ]
+        ["Items", "₦460,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦463,500"]
       ],
       "actions": [
         {
@@ -4315,12 +3809,7 @@
       "title": "Confirming your payment",
       "state": "loading",
       "desc": "Please do not pay again while we verify the transaction.",
-      "totals": [
-        [
-          "Amount",
-          "₦463,500"
-        ]
-      ],
+      "totals": [["Amount", "₦463,500"]],
       "actions": [
         {
           "label": "Verified payment",
@@ -4341,12 +3830,7 @@
       "title": "Payment still being checked",
       "state": "warning",
       "desc": "A charge may still be processing. Do not start another payment for this order.",
-      "totals": [
-        [
-          "Amount",
-          "₦463,500"
-        ]
-      ],
+      "totals": [["Amount", "₦463,500"]],
       "actions": [
         {
           "label": "Check again",
@@ -4366,14 +3850,8 @@
       "title": "Your order is confirmed",
       "state": "success",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 · UK-used · Grade A"
-        ],
-        [
-          "Paid",
-          "₦463,500"
-        ]
+        ["Item", "iPhone 12 · UK-used · Grade A"],
+        ["Paid", "₦463,500"]
       ],
       "actions": [
         {
@@ -4394,32 +3872,14 @@
       "title": "Order confirmed",
       "kind": "order",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 · UK-used · Grade A"
-        ],
-        [
-          "Status",
-          "Preparing"
-        ],
-        [
-          "Payment",
-          "Verified"
-        ]
+        ["Item", "iPhone 12 · UK-used · Grade A"],
+        ["Status", "Preparing"],
+        ["Payment", "Verified"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦460,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦463,500"
-        ]
+        ["Items", "₦460,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦463,500"]
       ],
       "actions": [
         {
@@ -4439,20 +3899,8 @@
       "id": "context-laptop-cart",
       "title": "Your cart",
       "kind": "cart",
-      "rows": [
-        [
-          "MacBook Air M1 · UK-used",
-          "Selected items",
-          "1",
-          "₦750,000"
-        ]
-      ],
-      "totals": [
-        [
-          "Subtotal",
-          "₦750,000"
-        ]
-      ],
+      "rows": [["MacBook Air M1 · UK-used", "Selected items", "1", "₦750,000"]],
+      "totals": [["Subtotal", "₦750,000"]],
       "actions": [
         {
           "label": "Continue as Amaka",
@@ -4473,32 +3921,14 @@
       "title": "Review your order",
       "kind": "checkout",
       "facts": [
-        [
-          "Item",
-          "MacBook Air M1 · UK-used"
-        ],
-        [
-          "Quantity",
-          "1"
-        ],
-        [
-          "Deliver to",
-          "Amaka Obi · Ikeja, Lagos"
-        ]
+        ["Item", "MacBook Air M1 · UK-used"],
+        ["Quantity", "1"],
+        ["Deliver to", "Amaka Obi · Ikeja, Lagos"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦750,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦753,500"
-        ]
+        ["Items", "₦750,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦753,500"]
       ],
       "actions": [
         {
@@ -4520,18 +3950,9 @@
       "state": "info",
       "desc": "Continue in Paystack. Returning here triggers verification; it does not confirm payment.",
       "totals": [
-        [
-          "Items",
-          "₦750,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦753,500"
-        ]
+        ["Items", "₦750,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦753,500"]
       ],
       "actions": [
         {
@@ -4552,12 +3973,7 @@
       "title": "Confirming your payment",
       "state": "loading",
       "desc": "Please do not pay again while we verify the transaction.",
-      "totals": [
-        [
-          "Amount",
-          "₦753,500"
-        ]
-      ],
+      "totals": [["Amount", "₦753,500"]],
       "actions": [
         {
           "label": "Verified payment",
@@ -4578,12 +3994,7 @@
       "title": "Payment still being checked",
       "state": "warning",
       "desc": "A charge may still be processing. Do not start another payment for this order.",
-      "totals": [
-        [
-          "Amount",
-          "₦753,500"
-        ]
-      ],
+      "totals": [["Amount", "₦753,500"]],
       "actions": [
         {
           "label": "Check again",
@@ -4603,14 +4014,8 @@
       "title": "Your order is confirmed",
       "state": "success",
       "facts": [
-        [
-          "Item",
-          "MacBook Air M1 · UK-used"
-        ],
-        [
-          "Paid",
-          "₦753,500"
-        ]
+        ["Item", "MacBook Air M1 · UK-used"],
+        ["Paid", "₦753,500"]
       ],
       "actions": [
         {
@@ -4631,32 +4036,14 @@
       "title": "Order confirmed",
       "kind": "order",
       "facts": [
-        [
-          "Item",
-          "MacBook Air M1 · UK-used"
-        ],
-        [
-          "Status",
-          "Preparing"
-        ],
-        [
-          "Payment",
-          "Verified"
-        ]
+        ["Item", "MacBook Air M1 · UK-used"],
+        ["Status", "Preparing"],
+        ["Payment", "Verified"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦750,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦753,500"
-        ]
+        ["Items", "₦750,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦753,500"]
       ],
       "actions": [
         {
@@ -4676,20 +4063,8 @@
       "id": "context-variant-cart",
       "title": "Your cart",
       "kind": "cart",
-      "rows": [
-        [
-          "iPhone 12 · New · 256GB",
-          "Selected items",
-          "1",
-          "₦710,000"
-        ]
-      ],
-      "totals": [
-        [
-          "Subtotal",
-          "₦710,000"
-        ]
-      ],
+      "rows": [["iPhone 12 · New · 256GB", "Selected items", "1", "₦710,000"]],
+      "totals": [["Subtotal", "₦710,000"]],
       "actions": [
         {
           "label": "Continue as Amaka",
@@ -4710,32 +4085,14 @@
       "title": "Review your order",
       "kind": "checkout",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 · New · 256GB"
-        ],
-        [
-          "Quantity",
-          "1"
-        ],
-        [
-          "Deliver to",
-          "Amaka Obi · Ikeja, Lagos"
-        ]
+        ["Item", "iPhone 12 · New · 256GB"],
+        ["Quantity", "1"],
+        ["Deliver to", "Amaka Obi · Ikeja, Lagos"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦710,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦713,500"
-        ]
+        ["Items", "₦710,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦713,500"]
       ],
       "actions": [
         {
@@ -4757,18 +4114,9 @@
       "state": "info",
       "desc": "Continue in Paystack. Returning here triggers verification; it does not confirm payment.",
       "totals": [
-        [
-          "Items",
-          "₦710,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦713,500"
-        ]
+        ["Items", "₦710,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦713,500"]
       ],
       "actions": [
         {
@@ -4789,12 +4137,7 @@
       "title": "Confirming your payment",
       "state": "loading",
       "desc": "Please do not pay again while we verify the transaction.",
-      "totals": [
-        [
-          "Amount",
-          "₦713,500"
-        ]
-      ],
+      "totals": [["Amount", "₦713,500"]],
       "actions": [
         {
           "label": "Verified payment",
@@ -4815,12 +4158,7 @@
       "title": "Payment still being checked",
       "state": "warning",
       "desc": "A charge may still be processing. Do not start another payment for this order.",
-      "totals": [
-        [
-          "Amount",
-          "₦713,500"
-        ]
-      ],
+      "totals": [["Amount", "₦713,500"]],
       "actions": [
         {
           "label": "Check again",
@@ -4840,14 +4178,8 @@
       "title": "Your order is confirmed",
       "state": "success",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 · New · 256GB"
-        ],
-        [
-          "Paid",
-          "₦713,500"
-        ]
+        ["Item", "iPhone 12 · New · 256GB"],
+        ["Paid", "₦713,500"]
       ],
       "actions": [
         {
@@ -4868,32 +4200,14 @@
       "title": "Order confirmed",
       "kind": "order",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 · New · 256GB"
-        ],
-        [
-          "Status",
-          "Preparing"
-        ],
-        [
-          "Payment",
-          "Verified"
-        ]
+        ["Item", "iPhone 12 · New · 256GB"],
+        ["Status", "Preparing"],
+        ["Payment", "Verified"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦710,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦713,500"
-        ]
+        ["Items", "₦710,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦713,500"]
       ],
       "actions": [
         {
@@ -4914,19 +4228,9 @@
       "title": "Your cart",
       "kind": "cart",
       "rows": [
-        [
-          "iPhone 12 + 1 Apple charger",
-          "Selected items",
-          "1",
-          "₦637,000"
-        ]
+        ["iPhone 12 + 1 Apple charger", "Selected items", "1", "₦637,000"]
       ],
-      "totals": [
-        [
-          "Subtotal",
-          "₦637,000"
-        ]
-      ],
+      "totals": [["Subtotal", "₦637,000"]],
       "actions": [
         {
           "label": "Continue as Amaka",
@@ -4947,32 +4251,14 @@
       "title": "Review your order",
       "kind": "checkout",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 + 1 Apple charger"
-        ],
-        [
-          "Quantity",
-          "1"
-        ],
-        [
-          "Deliver to",
-          "Amaka Obi · Ikeja, Lagos"
-        ]
+        ["Item", "iPhone 12 + 1 Apple charger"],
+        ["Quantity", "1"],
+        ["Deliver to", "Amaka Obi · Ikeja, Lagos"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦637,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦640,500"
-        ]
+        ["Items", "₦637,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦640,500"]
       ],
       "actions": [
         {
@@ -4994,18 +4280,9 @@
       "state": "info",
       "desc": "Continue in Paystack. Returning here triggers verification; it does not confirm payment.",
       "totals": [
-        [
-          "Items",
-          "₦637,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦640,500"
-        ]
+        ["Items", "₦637,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦640,500"]
       ],
       "actions": [
         {
@@ -5026,12 +4303,7 @@
       "title": "Confirming your payment",
       "state": "loading",
       "desc": "Please do not pay again while we verify the transaction.",
-      "totals": [
-        [
-          "Amount",
-          "₦640,500"
-        ]
-      ],
+      "totals": [["Amount", "₦640,500"]],
       "actions": [
         {
           "label": "Verified payment",
@@ -5052,12 +4324,7 @@
       "title": "Payment still being checked",
       "state": "warning",
       "desc": "A charge may still be processing. Do not start another payment for this order.",
-      "totals": [
-        [
-          "Amount",
-          "₦640,500"
-        ]
-      ],
+      "totals": [["Amount", "₦640,500"]],
       "actions": [
         {
           "label": "Check again",
@@ -5077,14 +4344,8 @@
       "title": "Your order is confirmed",
       "state": "success",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 + 1 Apple charger"
-        ],
-        [
-          "Paid",
-          "₦640,500"
-        ]
+        ["Item", "iPhone 12 + 1 Apple charger"],
+        ["Paid", "₦640,500"]
       ],
       "actions": [
         {
@@ -5105,32 +4366,14 @@
       "title": "Order confirmed",
       "kind": "order",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 + 1 Apple charger"
-        ],
-        [
-          "Status",
-          "Preparing"
-        ],
-        [
-          "Payment",
-          "Verified"
-        ]
+        ["Item", "iPhone 12 + 1 Apple charger"],
+        ["Status", "Preparing"],
+        ["Payment", "Verified"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦637,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦640,500"
-        ]
+        ["Items", "₦637,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦640,500"]
       ],
       "actions": [
         {
@@ -5150,20 +4393,8 @@
       "id": "context-removed-cart",
       "title": "Your cart",
       "kind": "cart",
-      "rows": [
-        [
-          "Apple 20W charger",
-          "Selected items",
-          "2",
-          "₦34,000"
-        ]
-      ],
-      "totals": [
-        [
-          "Subtotal",
-          "₦34,000"
-        ]
-      ],
+      "rows": [["Apple 20W charger", "Selected items", "2", "₦34,000"]],
+      "totals": [["Subtotal", "₦34,000"]],
       "actions": [
         {
           "label": "Continue as Amaka",
@@ -5184,32 +4415,14 @@
       "title": "Review your order",
       "kind": "checkout",
       "facts": [
-        [
-          "Item",
-          "Apple 20W charger"
-        ],
-        [
-          "Quantity",
-          "2"
-        ],
-        [
-          "Deliver to",
-          "Amaka Obi · Ikeja, Lagos"
-        ]
+        ["Item", "Apple 20W charger"],
+        ["Quantity", "2"],
+        ["Deliver to", "Amaka Obi · Ikeja, Lagos"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦34,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦37,500"
-        ]
+        ["Items", "₦34,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦37,500"]
       ],
       "actions": [
         {
@@ -5231,18 +4444,9 @@
       "state": "info",
       "desc": "Continue in Paystack. Returning here triggers verification; it does not confirm payment.",
       "totals": [
-        [
-          "Items",
-          "₦34,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦37,500"
-        ]
+        ["Items", "₦34,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦37,500"]
       ],
       "actions": [
         {
@@ -5263,12 +4467,7 @@
       "title": "Confirming your payment",
       "state": "loading",
       "desc": "Please do not pay again while we verify the transaction.",
-      "totals": [
-        [
-          "Amount",
-          "₦37,500"
-        ]
-      ],
+      "totals": [["Amount", "₦37,500"]],
       "actions": [
         {
           "label": "Verified payment",
@@ -5289,12 +4488,7 @@
       "title": "Payment still being checked",
       "state": "warning",
       "desc": "A charge may still be processing. Do not start another payment for this order.",
-      "totals": [
-        [
-          "Amount",
-          "₦37,500"
-        ]
-      ],
+      "totals": [["Amount", "₦37,500"]],
       "actions": [
         {
           "label": "Check again",
@@ -5314,14 +4508,8 @@
       "title": "Your order is confirmed",
       "state": "success",
       "facts": [
-        [
-          "Item",
-          "Apple 20W charger"
-        ],
-        [
-          "Paid",
-          "₦37,500"
-        ]
+        ["Item", "Apple 20W charger"],
+        ["Paid", "₦37,500"]
       ],
       "actions": [
         {
@@ -5342,32 +4530,14 @@
       "title": "Order confirmed",
       "kind": "order",
       "facts": [
-        [
-          "Item",
-          "Apple 20W charger"
-        ],
-        [
-          "Status",
-          "Preparing"
-        ],
-        [
-          "Payment",
-          "Verified"
-        ]
+        ["Item", "Apple 20W charger"],
+        ["Status", "Preparing"],
+        ["Payment", "Verified"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦34,000"
-        ],
-        [
-          "Delivery",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦37,500"
-        ]
+        ["Items", "₦34,000"],
+        ["Delivery", "₦3,500"],
+        ["Total", "₦37,500"]
       ],
       "actions": [
         {
@@ -5394,48 +4564,16 @@
       "name": "Dashboard",
       "desc": "An overview of sales, fulfilment, and stock.",
       "metrics": [
-        [
-          "Today’s sales",
-          "₦1.24M"
-        ],
-        [
-          "Orders",
-          "18"
-        ],
-        [
-          "Pending orders",
-          "4"
-        ],
-        [
-          "Low-stock variants",
-          "6"
-        ]
+        ["Today’s sales", "₦1.24M"],
+        ["Orders", "18"],
+        ["Pending orders", "4"],
+        ["Low-stock variants", "6"]
       ],
-      "columns": [
-        "Order",
-        "Customer",
-        "Total",
-        "Status"
-      ],
+      "columns": ["Order", "Customer", "Total", "Status"],
       "rows": [
-        [
-          "SW-10482",
-          "Amaka Obi",
-          "₦657,500",
-          "Paid"
-        ],
-        [
-          "SW-10481",
-          "Tobi A.",
-          "₦1,150,000",
-          "Pending"
-        ],
-        [
-          "SW-10480",
-          "Ngozi E.",
-          "₦210,000",
-          "Preparing"
-        ]
+        ["SW-10482", "Amaka Obi", "₦657,500", "Paid"],
+        ["SW-10481", "Tobi A.", "₦1,150,000", "Pending"],
+        ["SW-10480", "Ngozi E.", "₦210,000", "Preparing"]
       ],
       "detail": "orders-detail",
       "actions": [
@@ -5545,20 +4683,8 @@
       "module": "dashboard",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Order",
-        "Customer",
-        "Total",
-        "Status"
-      ],
-      "rows": [
-        [
-          "SW-10482",
-          "Amaka Obi",
-          "₦657,500",
-          "Paid"
-        ]
-      ],
+      "columns": ["Order", "Customer", "Total", "Status"],
+      "rows": [["SW-10482", "Amaka Obi", "₦657,500", "Paid"]],
       "actions": [
         {
           "label": "View result",
@@ -5630,18 +4756,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -5662,31 +4779,11 @@
       "name": "Products",
       "singular": "product",
       "desc": "Manage product information, variants, and publication.",
-      "columns": [
-        "Product",
-        "Category / brand",
-        "Price from",
-        "Status"
-      ],
+      "columns": ["Product", "Category / brand", "Price from", "Status"],
       "rows": [
-        [
-          "iPhone 12",
-          "Phones · Apple",
-          "₦620,000",
-          "Published"
-        ],
-        [
-          "MacBook Air M1",
-          "Laptops · Apple",
-          "₦750,000",
-          "Published"
-        ],
-        [
-          "PS5 Slim",
-          "Gaming · Sony",
-          "₦850,000",
-          "Draft"
-        ]
+        ["iPhone 12", "Phones · Apple", "₦620,000", "Published"],
+        ["MacBook Air M1", "Laptops · Apple", "₦750,000", "Published"],
+        ["PS5 Slim", "Gaming · Sony", "₦850,000", "Draft"]
       ],
       "error": "Enter a product name and a non-negative price. Choose a category and brand.",
       "archive": "Archive this product? Existing order history is preserved. It will no longer be visible in the storefront.",
@@ -5738,22 +4835,10 @@
       "module": "products",
       "kind": "detail",
       "facts": [
-        [
-          "Published variants",
-          "128GB Blue · 256GB Blue"
-        ],
-        [
-          "Inventory",
-          "3 available · 1 reserved"
-        ],
-        [
-          "Tracking",
-          "Serialized for new and UK-used devices"
-        ],
-        [
-          "Visibility",
-          "Published"
-        ]
+        ["Published variants", "128GB Blue · 256GB Blue"],
+        ["Inventory", "3 available · 1 reserved"],
+        ["Tracking", "Serialized for new and UK-used devices"],
+        ["Visibility", "Published"]
       ],
       "actions": [
         {
@@ -6083,22 +5168,10 @@
       "state": "success",
       "desc": "The updated record is now available.",
       "facts": [
-        [
-          "Published variants",
-          "128GB Blue · 256GB Blue"
-        ],
-        [
-          "Inventory",
-          "3 available · 1 reserved"
-        ],
-        [
-          "Tracking",
-          "Serialized for new and UK-used devices"
-        ],
-        [
-          "Visibility",
-          "Published"
-        ]
+        ["Published variants", "128GB Blue · 256GB Blue"],
+        ["Inventory", "3 available · 1 reserved"],
+        ["Tracking", "Serialized for new and UK-used devices"],
+        ["Visibility", "Published"]
       ],
       "actions": [
         {
@@ -6326,20 +5399,8 @@
       "module": "products",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Product",
-        "Category / brand",
-        "Price from",
-        "Status"
-      ],
-      "rows": [
-        [
-          "iPhone 12",
-          "Phones · Apple",
-          "₦620,000",
-          "Published"
-        ]
-      ],
+      "columns": ["Product", "Category / brand", "Price from", "Status"],
+      "rows": [["iPhone 12", "Phones · Apple", "₦620,000", "Published"]],
       "actions": [
         {
           "label": "View result",
@@ -6416,18 +5477,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -6448,31 +5500,11 @@
       "name": "Categories",
       "singular": "category",
       "desc": "Organize the storefront navigation and product groups.",
-      "columns": [
-        "Category",
-        "Slug",
-        "Products",
-        "Visibility"
-      ],
+      "columns": ["Category", "Slug", "Products", "Visibility"],
       "rows": [
-        [
-          "Phones",
-          "phones",
-          "42",
-          "Visible"
-        ],
-        [
-          "Laptops",
-          "laptops",
-          "26",
-          "Visible"
-        ],
-        [
-          "Accessories",
-          "accessories",
-          "84",
-          "Visible"
-        ]
+        ["Phones", "phones", "42", "Visible"],
+        ["Laptops", "laptops", "26", "Visible"],
+        ["Accessories", "accessories", "84", "Visible"]
       ],
       "error": "This slug is already used. Enter a unique slug.",
       "archive": "Archive Phones? It disappears from navigation. Product and order history are preserved.",
@@ -6524,22 +5556,10 @@
       "module": "categories",
       "kind": "detail",
       "facts": [
-        [
-          "Category",
-          "Phones"
-        ],
-        [
-          "Products",
-          "42 linked products"
-        ],
-        [
-          "Parent",
-          "None"
-        ],
-        [
-          "Navigation",
-          "Visible"
-        ]
+        ["Category", "Phones"],
+        ["Products", "42 linked products"],
+        ["Parent", "None"],
+        ["Navigation", "Visible"]
       ],
       "actions": [
         {
@@ -6797,22 +5817,10 @@
       "state": "success",
       "desc": "The updated record is now available.",
       "facts": [
-        [
-          "Category",
-          "Phones"
-        ],
-        [
-          "Products",
-          "42 linked products"
-        ],
-        [
-          "Parent",
-          "None"
-        ],
-        [
-          "Navigation",
-          "Visible"
-        ]
+        ["Category", "Phones"],
+        ["Products", "42 linked products"],
+        ["Parent", "None"],
+        ["Navigation", "Visible"]
       ],
       "actions": [
         {
@@ -7016,20 +6024,8 @@
       "module": "categories",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Category",
-        "Slug",
-        "Products",
-        "Visibility"
-      ],
-      "rows": [
-        [
-          "Phones",
-          "phones",
-          "42",
-          "Visible"
-        ]
-      ],
+      "columns": ["Category", "Slug", "Products", "Visibility"],
+      "rows": [["Phones", "phones", "42", "Visible"]],
       "actions": [
         {
           "label": "View result",
@@ -7106,18 +6102,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -7138,31 +6125,11 @@
       "name": "Brands",
       "singular": "brand",
       "desc": "Maintain brands and their catalogue associations.",
-      "columns": [
-        "Brand",
-        "Slug",
-        "Products",
-        "Status"
-      ],
+      "columns": ["Brand", "Slug", "Products", "Status"],
       "rows": [
-        [
-          "Apple",
-          "apple",
-          "36",
-          "Active"
-        ],
-        [
-          "Samsung",
-          "samsung",
-          "28",
-          "Active"
-        ],
-        [
-          "Sony",
-          "sony",
-          "12",
-          "Active"
-        ]
+        ["Apple", "apple", "36", "Active"],
+        ["Samsung", "samsung", "28", "Active"],
+        ["Sony", "sony", "12", "Active"]
       ],
       "error": "A brand named Apple already exists. Use the existing brand or choose a unique name.",
       "archive": "Deactivate this brand? Existing products and order records remain linked.",
@@ -7214,18 +6181,9 @@
       "module": "brands",
       "kind": "detail",
       "facts": [
-        [
-          "Brand",
-          "Apple"
-        ],
-        [
-          "Linked products",
-          "36"
-        ],
-        [
-          "Status",
-          "Active"
-        ]
+        ["Brand", "Apple"],
+        ["Linked products", "36"],
+        ["Status", "Active"]
       ],
       "actions": [
         {
@@ -7465,18 +6423,9 @@
       "state": "success",
       "desc": "The updated record is now available.",
       "facts": [
-        [
-          "Brand",
-          "Apple"
-        ],
-        [
-          "Linked products",
-          "36"
-        ],
-        [
-          "Status",
-          "Active"
-        ]
+        ["Brand", "Apple"],
+        ["Linked products", "36"],
+        ["Status", "Active"]
       ],
       "actions": [
         {
@@ -7674,20 +6623,8 @@
       "module": "brands",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Brand",
-        "Slug",
-        "Products",
-        "Status"
-      ],
-      "rows": [
-        [
-          "Apple",
-          "apple",
-          "36",
-          "Active"
-        ]
-      ],
+      "columns": ["Brand", "Slug", "Products", "Status"],
+      "rows": [["Apple", "apple", "36", "Active"]],
       "actions": [
         {
           "label": "View result",
@@ -7764,18 +6701,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -7796,12 +6724,7 @@
       "name": "Inventory",
       "singular": "stock intake",
       "desc": "Track individual units and quantity-based accessories.",
-      "columns": [
-        "Unit / SKU",
-        "Variant",
-        "Status",
-        "Location"
-      ],
+      "columns": ["Unit / SKU", "Variant", "Status", "Location"],
       "rows": [
         [
           "SW-UNIT-0214",
@@ -7809,18 +6732,8 @@
           "Available",
           "Ikeja store"
         ],
-        [
-          "SW-UNIT-0215",
-          "iPhone 12 · 128GB · Blue",
-          "Reserved",
-          "Ikeja store"
-        ],
-        [
-          "ACC-APPLE-20W",
-          "Apple charger · Qty 24",
-          "Available",
-          "Ikeja store"
-        ]
+        ["SW-UNIT-0215", "iPhone 12 · 128GB · Blue", "Reserved", "Ikeja store"],
+        ["ACC-APPLE-20W", "Apple charger · Qty 24", "Available", "Ikeja store"]
       ],
       "error": "This IMEI is already in inventory. Find the existing unit; do not create a second copy.",
       "archive": "Remove this available unit from sale? Select a reason. A movement record will be kept.",
@@ -7887,26 +6800,11 @@
       "module": "inventory",
       "kind": "detail",
       "facts": [
-        [
-          "Unit",
-          "SW-UNIT-0214"
-        ],
-        [
-          "IMEI / serial",
-          "DEMO-IMEI-001 / DEMO-SERIAL-001"
-        ],
-        [
-          "Variant",
-          "iPhone 12 · 128GB · Blue · New"
-        ],
-        [
-          "Status",
-          "Available"
-        ],
-        [
-          "Last movement",
-          "Received · +1 · inventory manager"
-        ]
+        ["Unit", "SW-UNIT-0214"],
+        ["IMEI / serial", "DEMO-IMEI-001 / DEMO-SERIAL-001"],
+        ["Variant", "iPhone 12 · 128GB · Blue · New"],
+        ["Status", "Available"],
+        ["Last movement", "Received · +1 · inventory manager"]
       ],
       "actions": [
         {
@@ -8210,26 +7108,11 @@
       "state": "success",
       "desc": "The updated record is now available.",
       "facts": [
-        [
-          "Unit",
-          "SW-UNIT-0214"
-        ],
-        [
-          "IMEI / serial",
-          "DEMO-IMEI-001 / DEMO-SERIAL-001"
-        ],
-        [
-          "Variant",
-          "iPhone 12 · 128GB · Blue · New"
-        ],
-        [
-          "Status",
-          "Available"
-        ],
-        [
-          "Last movement",
-          "Received · +1 · inventory manager"
-        ]
+        ["Unit", "SW-UNIT-0214"],
+        ["IMEI / serial", "DEMO-IMEI-001 / DEMO-SERIAL-001"],
+        ["Variant", "iPhone 12 · 128GB · Blue · New"],
+        ["Status", "Available"],
+        ["Last movement", "Received · +1 · inventory manager"]
       ],
       "actions": [
         {
@@ -8453,19 +7336,9 @@
       "module": "inventory",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Unit / SKU",
-        "Variant",
-        "Status",
-        "Location"
-      ],
+      "columns": ["Unit / SKU", "Variant", "Status", "Location"],
       "rows": [
-        [
-          "SW-UNIT-0214",
-          "iPhone 12 · 128GB · Blue",
-          "Available",
-          "Ikeja store"
-        ]
+        ["SW-UNIT-0214", "iPhone 12 · 128GB · Blue", "Available", "Ikeja store"]
       ],
       "actions": [
         {
@@ -8543,18 +7416,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -8574,12 +7438,7 @@
       "key": "movements",
       "name": "Inventory movements",
       "desc": "An immutable history of every stock change.",
-      "columns": [
-        "Movement / time",
-        "Item",
-        "Change",
-        "Reason / actor"
-      ],
+      "columns": ["Movement / time", "Item", "Change", "Reason / actor"],
       "rows": [
         [
           "MOV-0241 · 11:30",
@@ -8648,34 +7507,13 @@
       "module": "movements",
       "kind": "detail",
       "facts": [
-        [
-          "Movement",
-          "MOV-0241"
-        ],
-        [
-          "Item",
-          "SW-UNIT-0214"
-        ],
-        [
-          "Previous / change / new",
-          "0 / +1 / 1"
-        ],
-        [
-          "Reason",
-          "Stock received"
-        ],
-        [
-          "Actor",
-          "Inventory manager"
-        ],
-        [
-          "Reference",
-          "PO-DEMO-104"
-        ],
-        [
-          "Timestamp",
-          "26 Oct 2026 · 11:30"
-        ]
+        ["Movement", "MOV-0241"],
+        ["Item", "SW-UNIT-0214"],
+        ["Previous / change / new", "0 / +1 / 1"],
+        ["Reason", "Stock received"],
+        ["Actor", "Inventory manager"],
+        ["Reference", "PO-DEMO-104"],
+        ["Timestamp", "26 Oct 2026 · 11:30"]
       ],
       "actions": [
         {
@@ -8738,12 +7576,7 @@
       "module": "movements",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Movement / time",
-        "Item",
-        "Change",
-        "Reason / actor"
-      ],
+      "columns": ["Movement / time", "Item", "Change", "Reason / actor"],
       "rows": [
         [
           "MOV-0241 · 11:30",
@@ -8823,18 +7656,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -8854,31 +7678,11 @@
       "key": "sale",
       "name": "Record sale",
       "desc": "Use the same live inventory as online checkout.",
-      "columns": [
-        "Item",
-        "Available",
-        "Price",
-        "Action"
-      ],
+      "columns": ["Item", "Available", "Price", "Action"],
       "rows": [
-        [
-          "SW-UNIT-0214 · iPhone 12",
-          "Available",
-          "₦620,000",
-          "Select"
-        ],
-        [
-          "ACC-APPLE-20W",
-          "24 available",
-          "₦17,000",
-          "Select"
-        ],
-        [
-          "SW-UNIT-0215 · iPhone 12",
-          "Reserved",
-          "₦620,000",
-          "Unavailable"
-        ]
+        ["SW-UNIT-0214 · iPhone 12", "Available", "₦620,000", "Select"],
+        ["ACC-APPLE-20W", "24 available", "₦17,000", "Select"],
+        ["SW-UNIT-0215 · iPhone 12", "Reserved", "₦620,000", "Unavailable"]
       ],
       "actions": [
         {
@@ -8935,22 +7739,10 @@
       "module": "sale",
       "kind": "detail",
       "facts": [
-        [
-          "Selected unit",
-          "SW-UNIT-0214 · Available"
-        ],
-        [
-          "Amount",
-          "₦620,000"
-        ],
-        [
-          "Payment method",
-          "Cash"
-        ],
-        [
-          "Stock check",
-          "Rechecked when confirming the sale"
-        ]
+        ["Selected unit", "SW-UNIT-0214 · Available"],
+        ["Amount", "₦620,000"],
+        ["Payment method", "Cash"],
+        ["Stock check", "Rechecked when confirming the sale"]
       ],
       "actions": [
         {
@@ -9190,18 +7982,9 @@
       "state": "success",
       "desc": "PS-DEMO-108 · Payment recorded. The selected unit is sold and its stock movement is recorded.",
       "facts": [
-        [
-          "Sale",
-          "PS-DEMO-108"
-        ],
-        [
-          "Amount",
-          "₦620,000"
-        ],
-        [
-          "Unit",
-          "SW-UNIT-0214"
-        ]
+        ["Sale", "PS-DEMO-108"],
+        ["Amount", "₦620,000"],
+        ["Unit", "SW-UNIT-0214"]
       ],
       "actions": [
         {
@@ -9352,20 +8135,8 @@
       "module": "sale",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Item",
-        "Available",
-        "Price",
-        "Action"
-      ],
-      "rows": [
-        [
-          "SW-UNIT-0214 · iPhone 12",
-          "Available",
-          "₦620,000",
-          "Select"
-        ]
-      ],
+      "columns": ["Item", "Available", "Price", "Action"],
+      "rows": [["SW-UNIT-0214 · iPhone 12", "Available", "₦620,000", "Select"]],
       "actions": [
         {
           "label": "View result",
@@ -9437,18 +8208,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -9468,31 +8230,11 @@
       "key": "orders",
       "name": "Orders",
       "desc": "Review verified payments and manage fulfilment.",
-      "columns": [
-        "Order",
-        "Customer",
-        "Total",
-        "Status"
-      ],
+      "columns": ["Order", "Customer", "Total", "Status"],
       "rows": [
-        [
-          "SW-10482",
-          "Amaka Obi",
-          "₦657,500",
-          "Paid"
-        ],
-        [
-          "SW-10481",
-          "Tobi A.",
-          "₦1,150,000",
-          "Payment pending"
-        ],
-        [
-          "SW-10480",
-          "Ngozi E.",
-          "₦210,000",
-          "Shipped"
-        ]
+        ["SW-10482", "Amaka Obi", "₦657,500", "Paid"],
+        ["SW-10481", "Tobi A.", "₦1,150,000", "Payment pending"],
+        ["SW-10480", "Ngozi E.", "₦210,000", "Shipped"]
       ],
       "error": "This order changed while you were editing. Refresh the latest status before saving.",
       "archive": "Cancel this order? Review payment and fulfilment status first. Cancellation does not itself confirm a refund.",
@@ -9544,54 +8286,20 @@
       "module": "orders",
       "kind": "detail",
       "facts": [
-        [
-          "Order",
-          "SW-10482"
-        ],
-        [
-          "Payment",
-          "Verified paid · ₦657,500"
-        ],
-        [
-          "Delivery",
-          "Ikeja, Lagos · ₦3,500"
-        ],
-        [
-          "Reserved units",
-          "Assigned in the order transaction"
-        ],
-        [
-          "Fulfilment",
-          "Preparing"
-        ]
+        ["Order", "SW-10482"],
+        ["Payment", "Verified paid · ₦657,500"],
+        ["Delivery", "Ikeja, Lagos · ₦3,500"],
+        ["Reserved units", "Assigned in the order transaction"],
+        ["Fulfilment", "Preparing"]
       ],
       "rows": [
-        [
-          "iPhone 12 · 128GB",
-          "New · Blue",
-          "1 × ₦620,000",
-          "₦620,000"
-        ],
-        [
-          "Apple 20W USB-C charger",
-          "New · White",
-          "2 × ₦17,000",
-          "₦34,000"
-        ]
+        ["iPhone 12 · 128GB", "New · Blue", "1 × ₦620,000", "₦620,000"],
+        ["Apple 20W USB-C charger", "New · White", "2 × ₦17,000", "₦34,000"]
       ],
       "totals": [
-        [
-          "Items",
-          "₦654,000"
-        ],
-        [
-          "Delivery · Ikeja",
-          "₦3,500"
-        ],
-        [
-          "Total",
-          "₦657,500"
-        ]
+        ["Items", "₦654,000"],
+        ["Delivery · Ikeja", "₦3,500"],
+        ["Total", "₦657,500"]
       ],
       "actions": [
         {
@@ -9778,26 +8486,11 @@
       "state": "success",
       "desc": "The updated record is now available.",
       "facts": [
-        [
-          "Order",
-          "SW-10482"
-        ],
-        [
-          "Payment",
-          "Verified paid · ₦657,500"
-        ],
-        [
-          "Delivery",
-          "Ikeja, Lagos · ₦3,500"
-        ],
-        [
-          "Reserved units",
-          "Assigned in the order transaction"
-        ],
-        [
-          "Fulfilment",
-          "Preparing"
-        ]
+        ["Order", "SW-10482"],
+        ["Payment", "Verified paid · ₦657,500"],
+        ["Delivery", "Ikeja, Lagos · ₦3,500"],
+        ["Reserved units", "Assigned in the order transaction"],
+        ["Fulfilment", "Preparing"]
       ],
       "actions": [
         {
@@ -10003,20 +8696,8 @@
       "module": "orders",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Order",
-        "Customer",
-        "Total",
-        "Status"
-      ],
-      "rows": [
-        [
-          "SW-10482",
-          "Amaka Obi",
-          "₦657,500",
-          "Paid"
-        ]
-      ],
+      "columns": ["Order", "Customer", "Total", "Status"],
+      "rows": [["SW-10482", "Amaka Obi", "₦657,500", "Paid"]],
       "actions": [
         {
           "label": "View result",
@@ -10088,18 +8769,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -10119,31 +8791,11 @@
       "key": "customers",
       "name": "Customers",
       "desc": "Customer profiles and order history, limited to your role.",
-      "columns": [
-        "Customer",
-        "Email",
-        "Orders",
-        "Last order"
-      ],
+      "columns": ["Customer", "Email", "Orders", "Last order"],
       "rows": [
-        [
-          "Amaka Obi",
-          "amaka@example.com",
-          "4",
-          "26 Oct 2026"
-        ],
-        [
-          "Tobi A.",
-          "tobi@example.com",
-          "2",
-          "24 Oct 2026"
-        ],
-        [
-          "Ngozi E.",
-          "ngozi@example.com",
-          "1",
-          "22 Oct 2026"
-        ]
+        ["Amaka Obi", "amaka@example.com", "4", "26 Oct 2026"],
+        ["Tobi A.", "tobi@example.com", "2", "24 Oct 2026"],
+        ["Ngozi E.", "ngozi@example.com", "1", "22 Oct 2026"]
       ],
       "readOnly": true,
       "actions": [
@@ -10193,26 +8845,11 @@
       "module": "customers",
       "kind": "detail",
       "facts": [
-        [
-          "Customer",
-          "Amaka Obi"
-        ],
-        [
-          "Email",
-          "amaka@example.com"
-        ],
-        [
-          "Orders",
-          "4"
-        ],
-        [
-          "Latest order",
-          "SW-10482 · ₦657,500"
-        ],
-        [
-          "Account",
-          "Active"
-        ]
+        ["Customer", "Amaka Obi"],
+        ["Email", "amaka@example.com"],
+        ["Orders", "4"],
+        ["Latest order", "SW-10482 · ₦657,500"],
+        ["Account", "Active"]
       ],
       "actions": [
         {
@@ -10280,20 +8917,8 @@
       "module": "customers",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Customer",
-        "Email",
-        "Orders",
-        "Last order"
-      ],
-      "rows": [
-        [
-          "Amaka Obi",
-          "amaka@example.com",
-          "4",
-          "26 Oct 2026"
-        ]
-      ],
+      "columns": ["Customer", "Email", "Orders", "Last order"],
+      "rows": [["Amaka Obi", "amaka@example.com", "4", "26 Oct 2026"]],
       "actions": [
         {
           "label": "View result",
@@ -10365,18 +8990,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -10397,31 +9013,11 @@
       "name": "Discounts",
       "singular": "discount",
       "desc": "Create controlled offers with eligibility and usage limits.",
-      "columns": [
-        "Code",
-        "Value",
-        "Usage",
-        "Status"
-      ],
+      "columns": ["Code", "Value", "Usage", "Status"],
       "rows": [
-        [
-          "WELCOME5000",
-          "₦5,000 off",
-          "12 / 100",
-          "Active"
-        ],
-        [
-          "LAPTOP10",
-          "10% · capped ₦30,000",
-          "8 / 50",
-          "Scheduled"
-        ],
-        [
-          "AUDIO20",
-          "20% off",
-          "25 / 25",
-          "Expired"
-        ]
+        ["WELCOME5000", "₦5,000 off", "12 / 100", "Active"],
+        ["LAPTOP10", "10% · capped ₦30,000", "8 / 50", "Scheduled"],
+        ["AUDIO20", "20% off", "25 / 25", "Expired"]
       ],
       "error": "Choose an end date after the start date and a positive discount value.",
       "archive": "Deactivate this discount? New checkouts cannot apply it. Existing orders keep their recorded totals.",
@@ -10473,22 +9069,10 @@
       "module": "discounts",
       "kind": "detail",
       "facts": [
-        [
-          "Code",
-          "WELCOME5000"
-        ],
-        [
-          "Value",
-          "₦5,000"
-        ],
-        [
-          "Usage",
-          "12 / 100"
-        ],
-        [
-          "Eligible subtotal",
-          "At least ₦50,000"
-        ]
+        ["Code", "WELCOME5000"],
+        ["Value", "₦5,000"],
+        ["Usage", "12 / 100"],
+        ["Eligible subtotal", "At least ₦50,000"]
       ],
       "actions": [
         {
@@ -10800,22 +9384,10 @@
       "state": "success",
       "desc": "The updated record is now available.",
       "facts": [
-        [
-          "Code",
-          "WELCOME5000"
-        ],
-        [
-          "Value",
-          "₦5,000"
-        ],
-        [
-          "Usage",
-          "12 / 100"
-        ],
-        [
-          "Eligible subtotal",
-          "At least ₦50,000"
-        ]
+        ["Code", "WELCOME5000"],
+        ["Value", "₦5,000"],
+        ["Usage", "12 / 100"],
+        ["Eligible subtotal", "At least ₦50,000"]
       ],
       "actions": [
         {
@@ -11037,20 +9609,8 @@
       "module": "discounts",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Code",
-        "Value",
-        "Usage",
-        "Status"
-      ],
-      "rows": [
-        [
-          "WELCOME5000",
-          "₦5,000 off",
-          "12 / 100",
-          "Active"
-        ]
-      ],
+      "columns": ["Code", "Value", "Usage", "Status"],
+      "rows": [["WELCOME5000", "₦5,000 off", "12 / 100", "Active"]],
       "actions": [
         {
           "label": "View result",
@@ -11127,18 +9687,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -11158,31 +9709,11 @@
       "key": "reviews",
       "name": "Reviews",
       "desc": "Moderate product reviews without rewriting customer content.",
-      "columns": [
-        "Review",
-        "Product",
-        "Rating",
-        "Status"
-      ],
+      "columns": ["Review", "Product", "Rating", "Status"],
       "rows": [
-        [
-          "Amaka O. · Great condition",
-          "iPhone 12",
-          "5 stars",
-          "Pending"
-        ],
-        [
-          "Tobi A. · Easy pickup",
-          "MacBook Air M1",
-          "4 stars",
-          "Published"
-        ],
-        [
-          "Anonymous · Off-topic",
-          "PS5 Slim",
-          "1 star",
-          "Rejected"
-        ]
+        ["Amaka O. · Great condition", "iPhone 12", "5 stars", "Pending"],
+        ["Tobi A. · Easy pickup", "MacBook Air M1", "4 stars", "Published"],
+        ["Anonymous · Off-topic", "PS5 Slim", "1 star", "Rejected"]
       ],
       "error": "Add a moderation reason before rejecting a review.",
       "archive": "Reject this review? The original review remains in moderation history.",
@@ -11234,26 +9765,11 @@
       "module": "reviews",
       "kind": "detail",
       "facts": [
-        [
-          "Author",
-          "Amaka O. · verified purchase"
-        ],
-        [
-          "Product",
-          "iPhone 12"
-        ],
-        [
-          "Rating",
-          "5 / 5"
-        ],
-        [
-          "Review",
-          "Great condition. The item matched the listing."
-        ],
-        [
-          "Status",
-          "Pending moderation"
-        ]
+        ["Author", "Amaka O. · verified purchase"],
+        ["Product", "iPhone 12"],
+        ["Rating", "5 / 5"],
+        ["Review", "Great condition. The item matched the listing."],
+        ["Status", "Pending moderation"]
       ],
       "actions": [
         {
@@ -11411,26 +9927,11 @@
       "state": "success",
       "desc": "The updated record is now available.",
       "facts": [
-        [
-          "Author",
-          "Amaka O. · verified purchase"
-        ],
-        [
-          "Product",
-          "iPhone 12"
-        ],
-        [
-          "Rating",
-          "5 / 5"
-        ],
-        [
-          "Review",
-          "Great condition. The item matched the listing."
-        ],
-        [
-          "Status",
-          "Pending moderation"
-        ]
+        ["Author", "Amaka O. · verified purchase"],
+        ["Product", "iPhone 12"],
+        ["Rating", "5 / 5"],
+        ["Review", "Great condition. The item matched the listing."],
+        ["Status", "Pending moderation"]
       ],
       "actions": [
         {
@@ -11624,19 +10125,9 @@
       "module": "reviews",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Review",
-        "Product",
-        "Rating",
-        "Status"
-      ],
+      "columns": ["Review", "Product", "Rating", "Status"],
       "rows": [
-        [
-          "Amaka O. · Great condition",
-          "iPhone 12",
-          "5 stars",
-          "Pending"
-        ]
+        ["Amaka O. · Great condition", "iPhone 12", "5 stars", "Pending"]
       ],
       "actions": [
         {
@@ -11709,18 +10200,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -11741,31 +10223,11 @@
       "name": "Delivery",
       "singular": "delivery zone",
       "desc": "Configure available areas and their delivery fees.",
-      "columns": [
-        "Zone",
-        "Areas",
-        "Fee",
-        "Status"
-      ],
+      "columns": ["Zone", "Areas", "Fee", "Status"],
       "rows": [
-        [
-          "Ikeja",
-          "Ikeja / Opebi / Allen",
-          "₦3,500",
-          "Active"
-        ],
-        [
-          "Yaba",
-          "Yaba / Akoka",
-          "₦4,000",
-          "Active"
-        ],
-        [
-          "Unconfigured area",
-          "No matching zone",
-          "Not set",
-          "Checkout blocked"
-        ]
+        ["Ikeja", "Ikeja / Opebi / Allen", "₦3,500", "Active"],
+        ["Yaba", "Yaba / Akoka", "₦4,000", "Active"],
+        ["Unconfigured area", "No matching zone", "Not set", "Checkout blocked"]
       ],
       "error": "This area already belongs to another active zone. Resolve the overlap before saving.",
       "archive": "Disable this delivery zone? Customers in these areas cannot start new checkouts until a delivery option exists.",
@@ -11817,22 +10279,10 @@
       "module": "delivery",
       "kind": "detail",
       "facts": [
-        [
-          "Zone",
-          "Ikeja"
-        ],
-        [
-          "Areas",
-          "Ikeja, Opebi, Allen"
-        ],
-        [
-          "Fee",
-          "₦3,500"
-        ],
-        [
-          "Status",
-          "Active"
-        ]
+        ["Zone", "Ikeja"],
+        ["Areas", "Ikeja, Opebi, Allen"],
+        ["Fee", "₦3,500"],
+        ["Status", "Active"]
       ],
       "actions": [
         {
@@ -12090,22 +10540,10 @@
       "state": "success",
       "desc": "The updated record is now available.",
       "facts": [
-        [
-          "Zone",
-          "Ikeja"
-        ],
-        [
-          "Areas",
-          "Ikeja, Opebi, Allen"
-        ],
-        [
-          "Fee",
-          "₦3,500"
-        ],
-        [
-          "Status",
-          "Active"
-        ]
+        ["Zone", "Ikeja"],
+        ["Areas", "Ikeja, Opebi, Allen"],
+        ["Fee", "₦3,500"],
+        ["Status", "Active"]
       ],
       "actions": [
         {
@@ -12309,20 +10747,8 @@
       "module": "delivery",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Zone",
-        "Areas",
-        "Fee",
-        "Status"
-      ],
-      "rows": [
-        [
-          "Ikeja",
-          "Ikeja / Opebi / Allen",
-          "₦3,500",
-          "Active"
-        ]
-      ],
+      "columns": ["Zone", "Areas", "Fee", "Status"],
+      "rows": [["Ikeja", "Ikeja / Opebi / Allen", "₦3,500", "Active"]],
       "actions": [
         {
           "label": "View result",
@@ -12399,18 +10825,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -12431,31 +10848,11 @@
       "name": "Staff & roles",
       "singular": "staff invitation",
       "desc": "Invite staff and assign the access their work requires.",
-      "columns": [
-        "Staff",
-        "Email",
-        "Role",
-        "Status"
-      ],
+      "columns": ["Staff", "Email", "Role", "Status"],
       "rows": [
-        [
-          "Jenkins",
-          "admin@example.com",
-          "Super admin",
-          "Active"
-        ],
-        [
-          "Sales team",
-          "sales@example.com",
-          "Sales staff",
-          "Active"
-        ],
-        [
-          "Stock manager",
-          "stock@example.com",
-          "Inventory manager",
-          "Invited"
-        ]
+        ["Jenkins", "admin@example.com", "Super admin", "Active"],
+        ["Sales team", "sales@example.com", "Sales staff", "Active"],
+        ["Stock manager", "stock@example.com", "Inventory manager", "Invited"]
       ],
       "error": "Enter a valid email and choose a role. Only a super admin can manage role assignments.",
       "archive": "Disable this staff account? Active access will be revoked. Audit history is preserved.",
@@ -12507,22 +10904,10 @@
       "module": "staff",
       "kind": "detail",
       "facts": [
-        [
-          "Staff",
-          "Stock manager"
-        ],
-        [
-          "Email",
-          "stock@example.com"
-        ],
-        [
-          "Role",
-          "Inventory manager"
-        ],
-        [
-          "Status",
-          "Invitation pending"
-        ]
+        ["Staff", "Stock manager"],
+        ["Email", "stock@example.com"],
+        ["Role", "Inventory manager"],
+        ["Status", "Invitation pending"]
       ],
       "actions": [
         {
@@ -12754,22 +11139,10 @@
       "state": "success",
       "desc": "An invitation is ready for stock@example.com. They will receive access after accepting it.",
       "facts": [
-        [
-          "Staff",
-          "Stock manager"
-        ],
-        [
-          "Email",
-          "stock@example.com"
-        ],
-        [
-          "Role",
-          "Inventory manager"
-        ],
-        [
-          "Status",
-          "Invitation pending"
-        ]
+        ["Staff", "Stock manager"],
+        ["Email", "stock@example.com"],
+        ["Role", "Inventory manager"],
+        ["Status", "Invitation pending"]
       ],
       "actions": [
         {
@@ -12961,20 +11334,8 @@
       "module": "staff",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Staff",
-        "Email",
-        "Role",
-        "Status"
-      ],
-      "rows": [
-        [
-          "Jenkins",
-          "admin@example.com",
-          "Super admin",
-          "Active"
-        ]
-      ],
+      "columns": ["Staff", "Email", "Role", "Status"],
+      "rows": [["Jenkins", "admin@example.com", "Super admin", "Active"]],
       "actions": [
         {
           "label": "View result",
@@ -13051,18 +11412,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -13082,31 +11434,16 @@
       "key": "audit",
       "name": "Audit log",
       "desc": "Read-only accountability for sensitive administrative actions.",
-      "columns": [
-        "Time",
-        "Actor",
-        "Action",
-        "Reference"
-      ],
+      "columns": ["Time", "Actor", "Action", "Reference"],
       "rows": [
-        [
-          "26 Oct · 11:30",
-          "Inventory manager",
-          "Stock received",
-          "MOV-0241"
-        ],
+        ["26 Oct · 11:30", "Inventory manager", "Stock received", "MOV-0241"],
         [
           "26 Oct · 11:25",
           "Sales staff",
           "Physical sale recorded",
           "PS-DEMO-108"
         ],
-        [
-          "26 Oct · 11:20",
-          "Super admin",
-          "Delivery fee changed",
-          "ZONE-IKEJA"
-        ]
+        ["26 Oct · 11:20", "Super admin", "Delivery fee changed", "ZONE-IKEJA"]
       ],
       "readOnly": true,
       "actions": [
@@ -13156,34 +11493,13 @@
       "module": "audit",
       "kind": "detail",
       "facts": [
-        [
-          "Event",
-          "AUD-DEMO-2041"
-        ],
-        [
-          "Actor",
-          "Super admin"
-        ],
-        [
-          "Action",
-          "Delivery fee updated"
-        ],
-        [
-          "Reference",
-          "ZONE-IKEJA"
-        ],
-        [
-          "Before",
-          "₦3,000"
-        ],
-        [
-          "After",
-          "₦3,500"
-        ],
-        [
-          "Timestamp",
-          "26 Oct 2026 · 11:20"
-        ]
+        ["Event", "AUD-DEMO-2041"],
+        ["Actor", "Super admin"],
+        ["Action", "Delivery fee updated"],
+        ["Reference", "ZONE-IKEJA"],
+        ["Before", "₦3,000"],
+        ["After", "₦3,500"],
+        ["Timestamp", "26 Oct 2026 · 11:20"]
       ],
       "actions": [
         {
@@ -13246,19 +11562,9 @@
       "module": "audit",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "columns": [
-        "Time",
-        "Actor",
-        "Action",
-        "Reference"
-      ],
+      "columns": ["Time", "Actor", "Action", "Reference"],
       "rows": [
-        [
-          "26 Oct · 11:30",
-          "Inventory manager",
-          "Stock received",
-          "MOV-0241"
-        ]
+        ["26 Oct · 11:30", "Inventory manager", "Stock received", "MOV-0241"]
       ],
       "actions": [
         {
@@ -13331,18 +11637,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -13487,18 +11784,9 @@
       "module": "settings",
       "kind": "detail",
       "facts": [
-        [
-          "Payment mode",
-          "Test"
-        ],
-        [
-          "Store timezone",
-          "Africa/Lagos"
-        ],
-        [
-          "Public contact",
-          "Retailer-approved contact details required"
-        ]
+        ["Payment mode", "Test"],
+        ["Store timezone", "Africa/Lagos"],
+        ["Public contact", "Retailer-approved contact details required"]
       ],
       "actions": [
         {
@@ -13706,18 +11994,9 @@
       "state": "success",
       "desc": "The updated record is now available.",
       "facts": [
-        [
-          "Payment mode",
-          "Test"
-        ],
-        [
-          "Store timezone",
-          "Africa/Lagos"
-        ],
-        [
-          "Public contact",
-          "Retailer-approved contact details required"
-        ]
+        ["Payment mode", "Test"],
+        ["Store timezone", "Africa/Lagos"],
+        ["Public contact", "Retailer-approved contact details required"]
       ],
       "actions": [
         {
@@ -13918,14 +12197,7 @@
       "module": "settings",
       "kind": "list",
       "desc": "Active filters · Last 30 days",
-      "rows": [
-        [
-          "Matching record",
-          "Updated today",
-          "Active",
-          "View"
-        ]
-      ],
+      "rows": [["Matching record", "Updated today", "Active", "View"]],
       "actions": [
         {
           "label": "View result",
@@ -13997,18 +12269,9 @@
       "state": "success",
       "desc": "Your export reflects the current filters and only the records your role is allowed to access.",
       "facts": [
-        [
-          "Format",
-          "CSV"
-        ],
-        [
-          "Range",
-          "Last 30 days"
-        ],
-        [
-          "Sensitive fields",
-          "Excluded unless permitted"
-        ]
+        ["Format", "CSV"],
+        ["Range", "Last 30 days"],
+        ["Sensitive fields", "Excluded unless permitted"]
       ],
       "actions": [
         {
@@ -14057,18 +12320,9 @@
         }
       ],
       "facts": [
-        [
-          "Previous quantity",
-          "24"
-        ],
-        [
-          "Change",
-          "+10"
-        ],
-        [
-          "New quantity",
-          "34"
-        ]
+        ["Previous quantity", "24"],
+        ["Change", "+10"],
+        ["New quantity", "34"]
       ],
       "actions": [
         {
@@ -14122,18 +12376,9 @@
         }
       ],
       "facts": [
-        [
-          "Previous quantity",
-          "24"
-        ],
-        [
-          "Change",
-          "−2"
-        ],
-        [
-          "New quantity",
-          "22"
-        ]
+        ["Previous quantity", "24"],
+        ["Change", "−2"],
+        ["New quantity", "22"]
       ],
       "actions": [
         {
@@ -14155,12 +12400,7 @@
       "module": "inventory",
       "modal": true,
       "desc": "Remove 2 available chargers from sale as damaged. A movement entry will record the reason and your identity.",
-      "facts": [
-        [
-          "Available quantity",
-          "24 → 22"
-        ]
-      ],
+      "facts": [["Available quantity", "24 → 22"]],
       "actions": [
         {
           "label": "Confirm adjustment",
@@ -14181,18 +12421,9 @@
       "module": "inventory",
       "state": "success",
       "facts": [
-        [
-          "Variant",
-          "Apple 20W charger"
-        ],
-        [
-          "Available quantity",
-          "22"
-        ],
-        [
-          "Movement",
-          "MOV-DEMO-0242 · −2 · Damaged"
-        ]
+        ["Variant", "Apple 20W charger"],
+        ["Available quantity", "22"],
+        ["Movement", "MOV-DEMO-0242 · −2 · Damaged"]
       ],
       "actions": [
         {
@@ -14356,18 +12587,9 @@
         }
       ],
       "facts": [
-        [
-          "Rows",
-          "20"
-        ],
-        [
-          "Ready",
-          "18"
-        ],
-        [
-          "Errors",
-          "2 duplicate IMEIs"
-        ]
+        ["Rows", "20"],
+        ["Ready", "18"],
+        ["Errors", "2 duplicate IMEIs"]
       ],
       "actions": [
         {
@@ -14389,18 +12611,8 @@
       "module": "inventory",
       "state": "error",
       "rows": [
-        [
-          "Row 4",
-          "DEMO-IMEI-001",
-          "Duplicate IMEI",
-          "Existing unit"
-        ],
-        [
-          "Row 12",
-          "DEMO-IMEI-012",
-          "Missing variant",
-          "Choose a variant"
-        ]
+        ["Row 4", "DEMO-IMEI-001", "Duplicate IMEI", "Existing unit"],
+        ["Row 12", "DEMO-IMEI-012", "Missing variant", "Choose a variant"]
       ],
       "desc": "Nothing has been imported. Correct the file and validate again.",
       "actions": [
@@ -14423,18 +12635,9 @@
       "module": "inventory",
       "state": "info",
       "facts": [
-        [
-          "Serialized units",
-          "20"
-        ],
-        [
-          "Duplicate identifiers",
-          "0"
-        ],
-        [
-          "Invalid rows",
-          "0"
-        ]
+        ["Serialized units", "20"],
+        ["Duplicate identifiers", "0"],
+        ["Invalid rows", "0"]
       ],
       "actions": [
         {
@@ -14495,14 +12698,8 @@
         }
       ],
       "facts": [
-        [
-          "Unit price",
-          "₦17,000"
-        ],
-        [
-          "Total",
-          "₦34,000"
-        ]
+        ["Unit price", "₦17,000"],
+        ["Total", "₦34,000"]
       ],
       "actions": [
         {
@@ -14523,18 +12720,9 @@
       "title": "Review charger sale",
       "module": "sale",
       "facts": [
-        [
-          "Items",
-          "2 × Apple 20W charger"
-        ],
-        [
-          "Total",
-          "₦34,000"
-        ],
-        [
-          "Available after sale",
-          "22"
-        ]
+        ["Items", "2 × Apple 20W charger"],
+        ["Total", "₦34,000"],
+        ["Available after sale", "22"]
       ],
       "actions": [
         {
@@ -14556,18 +12744,9 @@
       "module": "sale",
       "state": "success",
       "facts": [
-        [
-          "Sale",
-          "PS-DEMO-109"
-        ],
-        [
-          "Quantity sold",
-          "2"
-        ],
-        [
-          "New available quantity",
-          "22"
-        ]
+        ["Sale", "PS-DEMO-109"],
+        ["Quantity sold", "2"],
+        ["New available quantity", "22"]
       ],
       "actions": [
         {
@@ -14588,22 +12767,10 @@
       "title": "Receipt · PS-DEMO-108",
       "module": "sale",
       "facts": [
-        [
-          "Item",
-          "iPhone 12 · SW-UNIT-0214"
-        ],
-        [
-          "Total",
-          "₦620,000"
-        ],
-        [
-          "Method",
-          "Cash"
-        ],
-        [
-          "Recorded by",
-          "Sales staff"
-        ]
+        ["Item", "iPhone 12 · SW-UNIT-0214"],
+        ["Total", "₦620,000"],
+        ["Method", "Cash"],
+        ["Recorded by", "Sales staff"]
       ],
       "actions": [
         {
@@ -14625,18 +12792,9 @@
       "title": "Verify payment status",
       "module": "orders",
       "facts": [
-        [
-          "Order",
-          "SW-10481"
-        ],
-        [
-          "Reference",
-          "SW-DEMO-10481"
-        ],
-        [
-          "Current status",
-          "Pending verification"
-        ]
+        ["Order", "SW-10481"],
+        ["Reference", "SW-DEMO-10481"],
+        ["Current status", "Pending verification"]
       ],
       "desc": "Payment cannot be marked paid manually. Check the provider’s verified result.",
       "actions": [
@@ -14686,18 +12844,9 @@
       "module": "orders",
       "state": "error",
       "facts": [
-        [
-          "Expected amount",
-          "₦657,500"
-        ],
-        [
-          "Verified amount",
-          "Does not match"
-        ],
-        [
-          "Action",
-          "Fulfilment blocked"
-        ]
+        ["Expected amount", "₦657,500"],
+        ["Verified amount", "Does not match"],
+        ["Action", "Fulfilment blocked"]
       ],
       "actions": [
         {
@@ -14767,22 +12916,10 @@
       "title": "Refund review",
       "module": "orders",
       "facts": [
-        [
-          "Order",
-          "SW-10482"
-        ],
-        [
-          "Paid",
-          "₦657,500"
-        ],
-        [
-          "Refund",
-          "Not initiated"
-        ],
-        [
-          "Requirement",
-          "Authorized approval and payment-provider confirmation"
-        ]
+        ["Order", "SW-10482"],
+        ["Paid", "₦657,500"],
+        ["Refund", "Not initiated"],
+        ["Requirement", "Authorized approval and payment-provider confirmation"]
       ],
       "fields": [
         {
@@ -14899,14 +13036,8 @@
       "module": "staff",
       "state": "success",
       "facts": [
-        [
-          "Staff",
-          "Sales team"
-        ],
-        [
-          "New role",
-          "Order manager"
-        ]
+        ["Staff", "Sales team"],
+        ["New role", "Order manager"]
       ],
       "actions": [
         {
@@ -14942,26 +13073,11 @@
       "title": "Payment integration",
       "module": "settings",
       "facts": [
-        [
-          "Provider",
-          "Paystack"
-        ],
-        [
-          "Mode",
-          "Test"
-        ],
-        [
-          "Connection",
-          "Connected"
-        ],
-        [
-          "Webhook verification",
-          "Required"
-        ],
-        [
-          "Secret keys",
-          "Never displayed in the admin browser"
-        ]
+        ["Provider", "Paystack"],
+        ["Mode", "Test"],
+        ["Connection", "Connected"],
+        ["Webhook verification", "Required"],
+        ["Secret keys", "Never displayed in the admin browser"]
       ],
       "actions": [
         {
@@ -15071,48 +13187,16 @@
       "name": "Dashboard",
       "desc": "An overview of sales, fulfilment, and stock.",
       "metrics": [
-        [
-          "Today’s sales",
-          "₦1.24M"
-        ],
-        [
-          "Orders",
-          "18"
-        ],
-        [
-          "Pending orders",
-          "4"
-        ],
-        [
-          "Low-stock variants",
-          "6"
-        ]
+        ["Today’s sales", "₦1.24M"],
+        ["Orders", "18"],
+        ["Pending orders", "4"],
+        ["Low-stock variants", "6"]
       ],
-      "columns": [
-        "Order",
-        "Customer",
-        "Total",
-        "Status"
-      ],
+      "columns": ["Order", "Customer", "Total", "Status"],
       "rows": [
-        [
-          "SW-10482",
-          "Amaka Obi",
-          "₦657,500",
-          "Paid"
-        ],
-        [
-          "SW-10481",
-          "Tobi A.",
-          "₦1,150,000",
-          "Pending"
-        ],
-        [
-          "SW-10480",
-          "Ngozi E.",
-          "₦210,000",
-          "Preparing"
-        ]
+        ["SW-10482", "Amaka Obi", "₦657,500", "Paid"],
+        ["SW-10481", "Tobi A.", "₦1,150,000", "Pending"],
+        ["SW-10480", "Ngozi E.", "₦210,000", "Preparing"]
       ],
       "detail": "orders-detail",
       "actions": [
@@ -15148,31 +13232,11 @@
       "name": "Products",
       "singular": "product",
       "desc": "Manage product information, variants, and publication.",
-      "columns": [
-        "Product",
-        "Category / brand",
-        "Price from",
-        "Status"
-      ],
+      "columns": ["Product", "Category / brand", "Price from", "Status"],
       "rows": [
-        [
-          "iPhone 12",
-          "Phones · Apple",
-          "₦620,000",
-          "Published"
-        ],
-        [
-          "MacBook Air M1",
-          "Laptops · Apple",
-          "₦750,000",
-          "Published"
-        ],
-        [
-          "PS5 Slim",
-          "Gaming · Sony",
-          "₦850,000",
-          "Draft"
-        ]
+        ["iPhone 12", "Phones · Apple", "₦620,000", "Published"],
+        ["MacBook Air M1", "Laptops · Apple", "₦750,000", "Published"],
+        ["PS5 Slim", "Gaming · Sony", "₦850,000", "Draft"]
       ],
       "fields": [
         {
@@ -15237,22 +13301,10 @@
         }
       ],
       "facts": [
-        [
-          "Published variants",
-          "128GB Blue · 256GB Blue"
-        ],
-        [
-          "Inventory",
-          "3 available · 1 reserved"
-        ],
-        [
-          "Tracking",
-          "Serialized for new and UK-used devices"
-        ],
-        [
-          "Visibility",
-          "Published"
-        ]
+        ["Published variants", "128GB Blue · 256GB Blue"],
+        ["Inventory", "3 available · 1 reserved"],
+        ["Tracking", "Serialized for new and UK-used devices"],
+        ["Visibility", "Published"]
       ],
       "error": "Enter a product name and a non-negative price. Choose a category and brand.",
       "archive": "Archive this product? Existing order history is preserved. It will no longer be visible in the storefront.",
@@ -15263,31 +13315,11 @@
       "name": "Categories",
       "singular": "category",
       "desc": "Organize the storefront navigation and product groups.",
-      "columns": [
-        "Category",
-        "Slug",
-        "Products",
-        "Visibility"
-      ],
+      "columns": ["Category", "Slug", "Products", "Visibility"],
       "rows": [
-        [
-          "Phones",
-          "phones",
-          "42",
-          "Visible"
-        ],
-        [
-          "Laptops",
-          "laptops",
-          "26",
-          "Visible"
-        ],
-        [
-          "Accessories",
-          "accessories",
-          "84",
-          "Visible"
-        ]
+        ["Phones", "phones", "42", "Visible"],
+        ["Laptops", "laptops", "26", "Visible"],
+        ["Accessories", "accessories", "84", "Visible"]
       ],
       "fields": [
         {
@@ -15328,22 +13360,10 @@
         }
       ],
       "facts": [
-        [
-          "Category",
-          "Phones"
-        ],
-        [
-          "Products",
-          "42 linked products"
-        ],
-        [
-          "Parent",
-          "None"
-        ],
-        [
-          "Navigation",
-          "Visible"
-        ]
+        ["Category", "Phones"],
+        ["Products", "42 linked products"],
+        ["Parent", "None"],
+        ["Navigation", "Visible"]
       ],
       "error": "This slug is already used. Enter a unique slug.",
       "archive": "Archive Phones? It disappears from navigation. Product and order history are preserved.",
@@ -15354,31 +13374,11 @@
       "name": "Brands",
       "singular": "brand",
       "desc": "Maintain brands and their catalogue associations.",
-      "columns": [
-        "Brand",
-        "Slug",
-        "Products",
-        "Status"
-      ],
+      "columns": ["Brand", "Slug", "Products", "Status"],
       "rows": [
-        [
-          "Apple",
-          "apple",
-          "36",
-          "Active"
-        ],
-        [
-          "Samsung",
-          "samsung",
-          "28",
-          "Active"
-        ],
-        [
-          "Sony",
-          "sony",
-          "12",
-          "Active"
-        ]
+        ["Apple", "apple", "36", "Active"],
+        ["Samsung", "samsung", "28", "Active"],
+        ["Sony", "sony", "12", "Active"]
       ],
       "fields": [
         {
@@ -15413,18 +13413,9 @@
         }
       ],
       "facts": [
-        [
-          "Brand",
-          "Apple"
-        ],
-        [
-          "Linked products",
-          "36"
-        ],
-        [
-          "Status",
-          "Active"
-        ]
+        ["Brand", "Apple"],
+        ["Linked products", "36"],
+        ["Status", "Active"]
       ],
       "error": "A brand named Apple already exists. Use the existing brand or choose a unique name.",
       "archive": "Deactivate this brand? Existing products and order records remain linked.",
@@ -15435,12 +13426,7 @@
       "name": "Inventory",
       "singular": "stock intake",
       "desc": "Track individual units and quantity-based accessories.",
-      "columns": [
-        "Unit / SKU",
-        "Variant",
-        "Status",
-        "Location"
-      ],
+      "columns": ["Unit / SKU", "Variant", "Status", "Location"],
       "rows": [
         [
           "SW-UNIT-0214",
@@ -15448,18 +13434,8 @@
           "Available",
           "Ikeja store"
         ],
-        [
-          "SW-UNIT-0215",
-          "iPhone 12 · 128GB · Blue",
-          "Reserved",
-          "Ikeja store"
-        ],
-        [
-          "ACC-APPLE-20W",
-          "Apple charger · Qty 24",
-          "Available",
-          "Ikeja store"
-        ]
+        ["SW-UNIT-0215", "iPhone 12 · 128GB · Blue", "Reserved", "Ikeja store"],
+        ["ACC-APPLE-20W", "Apple charger · Qty 24", "Available", "Ikeja store"]
       ],
       "fields": [
         {
@@ -15512,26 +13488,11 @@
         }
       ],
       "facts": [
-        [
-          "Unit",
-          "SW-UNIT-0214"
-        ],
-        [
-          "IMEI / serial",
-          "DEMO-IMEI-001 / DEMO-SERIAL-001"
-        ],
-        [
-          "Variant",
-          "iPhone 12 · 128GB · Blue · New"
-        ],
-        [
-          "Status",
-          "Available"
-        ],
-        [
-          "Last movement",
-          "Received · +1 · inventory manager"
-        ]
+        ["Unit", "SW-UNIT-0214"],
+        ["IMEI / serial", "DEMO-IMEI-001 / DEMO-SERIAL-001"],
+        ["Variant", "iPhone 12 · 128GB · Blue · New"],
+        ["Status", "Available"],
+        ["Last movement", "Received · +1 · inventory manager"]
       ],
       "error": "This IMEI is already in inventory. Find the existing unit; do not create a second copy.",
       "archive": "Remove this available unit from sale? Select a reason. A movement record will be kept.",
@@ -15541,12 +13502,7 @@
       "key": "movements",
       "name": "Inventory movements",
       "desc": "An immutable history of every stock change.",
-      "columns": [
-        "Movement / time",
-        "Item",
-        "Change",
-        "Reason / actor"
-      ],
+      "columns": ["Movement / time", "Item", "Change", "Reason / actor"],
       "rows": [
         [
           "MOV-0241 · 11:30",
@@ -15568,34 +13524,13 @@
         ]
       ],
       "facts": [
-        [
-          "Movement",
-          "MOV-0241"
-        ],
-        [
-          "Item",
-          "SW-UNIT-0214"
-        ],
-        [
-          "Previous / change / new",
-          "0 / +1 / 1"
-        ],
-        [
-          "Reason",
-          "Stock received"
-        ],
-        [
-          "Actor",
-          "Inventory manager"
-        ],
-        [
-          "Reference",
-          "PO-DEMO-104"
-        ],
-        [
-          "Timestamp",
-          "26 Oct 2026 · 11:30"
-        ]
+        ["Movement", "MOV-0241"],
+        ["Item", "SW-UNIT-0214"],
+        ["Previous / change / new", "0 / +1 / 1"],
+        ["Reason", "Stock received"],
+        ["Actor", "Inventory manager"],
+        ["Reference", "PO-DEMO-104"],
+        ["Timestamp", "26 Oct 2026 · 11:30"]
       ],
       "readOnly": true
     },
@@ -15603,31 +13538,11 @@
       "key": "sale",
       "name": "Record sale",
       "desc": "Use the same live inventory as online checkout.",
-      "columns": [
-        "Item",
-        "Available",
-        "Price",
-        "Action"
-      ],
+      "columns": ["Item", "Available", "Price", "Action"],
       "rows": [
-        [
-          "SW-UNIT-0214 · iPhone 12",
-          "Available",
-          "₦620,000",
-          "Select"
-        ],
-        [
-          "ACC-APPLE-20W",
-          "24 available",
-          "₦17,000",
-          "Select"
-        ],
-        [
-          "SW-UNIT-0215 · iPhone 12",
-          "Reserved",
-          "₦620,000",
-          "Unavailable"
-        ]
+        ["SW-UNIT-0214 · iPhone 12", "Available", "₦620,000", "Select"],
+        ["ACC-APPLE-20W", "24 available", "₦17,000", "Select"],
+        ["SW-UNIT-0215 · iPhone 12", "Reserved", "₦620,000", "Unavailable"]
       ],
       "fields": [
         {
@@ -15662,22 +13577,10 @@
         }
       ],
       "facts": [
-        [
-          "Selected unit",
-          "SW-UNIT-0214 · Available"
-        ],
-        [
-          "Amount",
-          "₦620,000"
-        ],
-        [
-          "Payment method",
-          "Cash"
-        ],
-        [
-          "Stock check",
-          "Rechecked when confirming the sale"
-        ]
+        ["Selected unit", "SW-UNIT-0214 · Available"],
+        ["Amount", "₦620,000"],
+        ["Payment method", "Cash"],
+        ["Stock check", "Rechecked when confirming the sale"]
       ],
       "actions": [
         {
@@ -15709,31 +13612,11 @@
       "key": "orders",
       "name": "Orders",
       "desc": "Review verified payments and manage fulfilment.",
-      "columns": [
-        "Order",
-        "Customer",
-        "Total",
-        "Status"
-      ],
+      "columns": ["Order", "Customer", "Total", "Status"],
       "rows": [
-        [
-          "SW-10482",
-          "Amaka Obi",
-          "₦657,500",
-          "Paid"
-        ],
-        [
-          "SW-10481",
-          "Tobi A.",
-          "₦1,150,000",
-          "Payment pending"
-        ],
-        [
-          "SW-10480",
-          "Ngozi E.",
-          "₦210,000",
-          "Shipped"
-        ]
+        ["SW-10482", "Amaka Obi", "₦657,500", "Paid"],
+        ["SW-10481", "Tobi A.", "₦1,150,000", "Payment pending"],
+        ["SW-10480", "Ngozi E.", "₦210,000", "Shipped"]
       ],
       "fields": [
         {
@@ -15768,26 +13651,11 @@
         }
       ],
       "facts": [
-        [
-          "Order",
-          "SW-10482"
-        ],
-        [
-          "Payment",
-          "Verified paid · ₦657,500"
-        ],
-        [
-          "Delivery",
-          "Ikeja, Lagos · ₦3,500"
-        ],
-        [
-          "Reserved units",
-          "Assigned in the order transaction"
-        ],
-        [
-          "Fulfilment",
-          "Preparing"
-        ]
+        ["Order", "SW-10482"],
+        ["Payment", "Verified paid · ₦657,500"],
+        ["Delivery", "Ikeja, Lagos · ₦3,500"],
+        ["Reserved units", "Assigned in the order transaction"],
+        ["Fulfilment", "Preparing"]
       ],
       "error": "This order changed while you were editing. Refresh the latest status before saving.",
       "archive": "Cancel this order? Review payment and fulfilment status first. Cancellation does not itself confirm a refund.",
@@ -15797,53 +13665,18 @@
       "key": "customers",
       "name": "Customers",
       "desc": "Customer profiles and order history, limited to your role.",
-      "columns": [
-        "Customer",
-        "Email",
-        "Orders",
-        "Last order"
-      ],
+      "columns": ["Customer", "Email", "Orders", "Last order"],
       "rows": [
-        [
-          "Amaka Obi",
-          "amaka@example.com",
-          "4",
-          "26 Oct 2026"
-        ],
-        [
-          "Tobi A.",
-          "tobi@example.com",
-          "2",
-          "24 Oct 2026"
-        ],
-        [
-          "Ngozi E.",
-          "ngozi@example.com",
-          "1",
-          "22 Oct 2026"
-        ]
+        ["Amaka Obi", "amaka@example.com", "4", "26 Oct 2026"],
+        ["Tobi A.", "tobi@example.com", "2", "24 Oct 2026"],
+        ["Ngozi E.", "ngozi@example.com", "1", "22 Oct 2026"]
       ],
       "facts": [
-        [
-          "Customer",
-          "Amaka Obi"
-        ],
-        [
-          "Email",
-          "amaka@example.com"
-        ],
-        [
-          "Orders",
-          "4"
-        ],
-        [
-          "Latest order",
-          "SW-10482 · ₦657,500"
-        ],
-        [
-          "Account",
-          "Active"
-        ]
+        ["Customer", "Amaka Obi"],
+        ["Email", "amaka@example.com"],
+        ["Orders", "4"],
+        ["Latest order", "SW-10482 · ₦657,500"],
+        ["Account", "Active"]
       ],
       "readOnly": true
     },
@@ -15852,31 +13685,11 @@
       "name": "Discounts",
       "singular": "discount",
       "desc": "Create controlled offers with eligibility and usage limits.",
-      "columns": [
-        "Code",
-        "Value",
-        "Usage",
-        "Status"
-      ],
+      "columns": ["Code", "Value", "Usage", "Status"],
       "rows": [
-        [
-          "WELCOME5000",
-          "₦5,000 off",
-          "12 / 100",
-          "Active"
-        ],
-        [
-          "LAPTOP10",
-          "10% · capped ₦30,000",
-          "8 / 50",
-          "Scheduled"
-        ],
-        [
-          "AUDIO20",
-          "20% off",
-          "25 / 25",
-          "Expired"
-        ]
+        ["WELCOME5000", "₦5,000 off", "12 / 100", "Active"],
+        ["LAPTOP10", "10% · capped ₦30,000", "8 / 50", "Scheduled"],
+        ["AUDIO20", "20% off", "25 / 25", "Expired"]
       ],
       "fields": [
         {
@@ -15935,22 +13748,10 @@
         }
       ],
       "facts": [
-        [
-          "Code",
-          "WELCOME5000"
-        ],
-        [
-          "Value",
-          "₦5,000"
-        ],
-        [
-          "Usage",
-          "12 / 100"
-        ],
-        [
-          "Eligible subtotal",
-          "At least ₦50,000"
-        ]
+        ["Code", "WELCOME5000"],
+        ["Value", "₦5,000"],
+        ["Usage", "12 / 100"],
+        ["Eligible subtotal", "At least ₦50,000"]
       ],
       "error": "Choose an end date after the start date and a positive discount value.",
       "archive": "Deactivate this discount? New checkouts cannot apply it. Existing orders keep their recorded totals.",
@@ -15960,31 +13761,11 @@
       "key": "reviews",
       "name": "Reviews",
       "desc": "Moderate product reviews without rewriting customer content.",
-      "columns": [
-        "Review",
-        "Product",
-        "Rating",
-        "Status"
-      ],
+      "columns": ["Review", "Product", "Rating", "Status"],
       "rows": [
-        [
-          "Amaka O. · Great condition",
-          "iPhone 12",
-          "5 stars",
-          "Pending"
-        ],
-        [
-          "Tobi A. · Easy pickup",
-          "MacBook Air M1",
-          "4 stars",
-          "Published"
-        ],
-        [
-          "Anonymous · Off-topic",
-          "PS5 Slim",
-          "1 star",
-          "Rejected"
-        ]
+        ["Amaka O. · Great condition", "iPhone 12", "5 stars", "Pending"],
+        ["Tobi A. · Easy pickup", "MacBook Air M1", "4 stars", "Published"],
+        ["Anonymous · Off-topic", "PS5 Slim", "1 star", "Rejected"]
       ],
       "fields": [
         {
@@ -16007,26 +13788,11 @@
         }
       ],
       "facts": [
-        [
-          "Author",
-          "Amaka O. · verified purchase"
-        ],
-        [
-          "Product",
-          "iPhone 12"
-        ],
-        [
-          "Rating",
-          "5 / 5"
-        ],
-        [
-          "Review",
-          "Great condition. The item matched the listing."
-        ],
-        [
-          "Status",
-          "Pending moderation"
-        ]
+        ["Author", "Amaka O. · verified purchase"],
+        ["Product", "iPhone 12"],
+        ["Rating", "5 / 5"],
+        ["Review", "Great condition. The item matched the listing."],
+        ["Status", "Pending moderation"]
       ],
       "error": "Add a moderation reason before rejecting a review.",
       "archive": "Reject this review? The original review remains in moderation history.",
@@ -16037,31 +13803,11 @@
       "name": "Delivery",
       "singular": "delivery zone",
       "desc": "Configure available areas and their delivery fees.",
-      "columns": [
-        "Zone",
-        "Areas",
-        "Fee",
-        "Status"
-      ],
+      "columns": ["Zone", "Areas", "Fee", "Status"],
       "rows": [
-        [
-          "Ikeja",
-          "Ikeja / Opebi / Allen",
-          "₦3,500",
-          "Active"
-        ],
-        [
-          "Yaba",
-          "Yaba / Akoka",
-          "₦4,000",
-          "Active"
-        ],
-        [
-          "Unconfigured area",
-          "No matching zone",
-          "Not set",
-          "Checkout blocked"
-        ]
+        ["Ikeja", "Ikeja / Opebi / Allen", "₦3,500", "Active"],
+        ["Yaba", "Yaba / Akoka", "₦4,000", "Active"],
+        ["Unconfigured area", "No matching zone", "Not set", "Checkout blocked"]
       ],
       "fields": [
         {
@@ -16102,22 +13848,10 @@
         }
       ],
       "facts": [
-        [
-          "Zone",
-          "Ikeja"
-        ],
-        [
-          "Areas",
-          "Ikeja, Opebi, Allen"
-        ],
-        [
-          "Fee",
-          "₦3,500"
-        ],
-        [
-          "Status",
-          "Active"
-        ]
+        ["Zone", "Ikeja"],
+        ["Areas", "Ikeja, Opebi, Allen"],
+        ["Fee", "₦3,500"],
+        ["Status", "Active"]
       ],
       "error": "This area already belongs to another active zone. Resolve the overlap before saving.",
       "archive": "Disable this delivery zone? Customers in these areas cannot start new checkouts until a delivery option exists.",
@@ -16128,31 +13862,11 @@
       "name": "Staff & roles",
       "singular": "staff invitation",
       "desc": "Invite staff and assign the access their work requires.",
-      "columns": [
-        "Staff",
-        "Email",
-        "Role",
-        "Status"
-      ],
+      "columns": ["Staff", "Email", "Role", "Status"],
       "rows": [
-        [
-          "Jenkins",
-          "admin@example.com",
-          "Super admin",
-          "Active"
-        ],
-        [
-          "Sales team",
-          "sales@example.com",
-          "Sales staff",
-          "Active"
-        ],
-        [
-          "Stock manager",
-          "stock@example.com",
-          "Inventory manager",
-          "Invited"
-        ]
+        ["Jenkins", "admin@example.com", "Super admin", "Active"],
+        ["Sales team", "sales@example.com", "Sales staff", "Active"],
+        ["Stock manager", "stock@example.com", "Inventory manager", "Invited"]
       ],
       "fields": [
         {
@@ -16181,22 +13895,10 @@
         }
       ],
       "facts": [
-        [
-          "Staff",
-          "Stock manager"
-        ],
-        [
-          "Email",
-          "stock@example.com"
-        ],
-        [
-          "Role",
-          "Inventory manager"
-        ],
-        [
-          "Status",
-          "Invitation pending"
-        ]
+        ["Staff", "Stock manager"],
+        ["Email", "stock@example.com"],
+        ["Role", "Inventory manager"],
+        ["Status", "Invitation pending"]
       ],
       "error": "Enter a valid email and choose a role. Only a super admin can manage role assignments.",
       "archive": "Disable this staff account? Active access will be revoked. Audit history is preserved.",
@@ -16206,61 +13908,25 @@
       "key": "audit",
       "name": "Audit log",
       "desc": "Read-only accountability for sensitive administrative actions.",
-      "columns": [
-        "Time",
-        "Actor",
-        "Action",
-        "Reference"
-      ],
+      "columns": ["Time", "Actor", "Action", "Reference"],
       "rows": [
-        [
-          "26 Oct · 11:30",
-          "Inventory manager",
-          "Stock received",
-          "MOV-0241"
-        ],
+        ["26 Oct · 11:30", "Inventory manager", "Stock received", "MOV-0241"],
         [
           "26 Oct · 11:25",
           "Sales staff",
           "Physical sale recorded",
           "PS-DEMO-108"
         ],
-        [
-          "26 Oct · 11:20",
-          "Super admin",
-          "Delivery fee changed",
-          "ZONE-IKEJA"
-        ]
+        ["26 Oct · 11:20", "Super admin", "Delivery fee changed", "ZONE-IKEJA"]
       ],
       "facts": [
-        [
-          "Event",
-          "AUD-DEMO-2041"
-        ],
-        [
-          "Actor",
-          "Super admin"
-        ],
-        [
-          "Action",
-          "Delivery fee updated"
-        ],
-        [
-          "Reference",
-          "ZONE-IKEJA"
-        ],
-        [
-          "Before",
-          "₦3,000"
-        ],
-        [
-          "After",
-          "₦3,500"
-        ],
-        [
-          "Timestamp",
-          "26 Oct 2026 · 11:20"
-        ]
+        ["Event", "AUD-DEMO-2041"],
+        ["Actor", "Super admin"],
+        ["Action", "Delivery fee updated"],
+        ["Reference", "ZONE-IKEJA"],
+        ["Before", "₦3,000"],
+        ["After", "₦3,500"],
+        ["Timestamp", "26 Oct 2026 · 11:20"]
       ],
       "readOnly": true
     },
@@ -16319,18 +13985,9 @@
         }
       ],
       "facts": [
-        [
-          "Payment mode",
-          "Test"
-        ],
-        [
-          "Store timezone",
-          "Africa/Lagos"
-        ],
-        [
-          "Public contact",
-          "Retailer-approved contact details required"
-        ]
+        ["Payment mode", "Test"],
+        ["Store timezone", "Africa/Lagos"],
+        ["Public contact", "Retailer-approved contact details required"]
       ],
       "error": "Enter a valid support email. Notification thresholds must be zero or greater.",
       "archive": "Discard your unsaved settings changes?",

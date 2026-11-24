@@ -16,29 +16,83 @@ import { createServerSupabaseClient } from "@/lib/supabase/server";
 export default async function AdminDashboardPage() {
   const preview = !getSupabasePublicEnv();
   const supabase = preview ? null : await createServerSupabaseClient();
-  const [ordersResult, variantsResult] = supabase ? await Promise.all([
-    supabase.from("orders").select("order_number,status,total_amount,created_at").order("created_at", { ascending: false }).limit(100),
-    supabase.from("product_variants").select("sku,quantity,is_serialized").eq("is_serialized", false),
-  ]) : [{ data: [] }, { data: [] }];
+  const [ordersResult, variantsResult] = supabase
+    ? await Promise.all([
+        supabase
+          .from("orders")
+          .select("order_number,status,total_amount,created_at")
+          .order("created_at", { ascending: false })
+          .limit(100),
+        supabase
+          .from("product_variants")
+          .select("sku,quantity,is_serialized")
+          .eq("is_serialized", false),
+      ])
+    : [{ data: [] }, { data: [] }];
   const orders = ordersResult.data ?? [];
-  const lowStock = (variantsResult.data ?? []).filter((variant) => variant.quantity <= 3);
-  const metrics = preview ? adminMetrics : [
-    { label: "Recorded sales", value: formatNaira(orders.filter((order) => ["paid", "fulfilled"].includes(order.status)).reduce((sum, order) => sum + order.total_amount, 0)) },
-    { label: "Orders", value: String(orders.length) },
-    { label: "Pending orders", value: String(orders.filter((order) => order.status === "pending").length), tone: "info" as const },
-    { label: "Low stock", value: String(lowStock.length), tone: "warn" as const },
-  ];
-  const displayedOrders = preview ? recentOrders.map((order) => ({ orderNumber: order.orderNumber, customer: order.customer, totalKobo: order.totalKobo, status: order.status })) : orders.slice(0, 5).map((order) => ({ orderNumber: order.order_number, customer: "—", totalKobo: order.total_amount, status: order.status }));
-  const displayedAlerts = preview ? lowStockAlerts : lowStock.map((variant) => ({ name: variant.sku, remaining: variant.quantity }));
+  const lowStock = (variantsResult.data ?? []).filter(
+    (variant) => variant.quantity <= 3,
+  );
+  const metrics = preview
+    ? adminMetrics
+    : [
+        {
+          label: "Recorded sales",
+          value: formatNaira(
+            orders
+              .filter((order) => ["paid", "fulfilled"].includes(order.status))
+              .reduce((sum, order) => sum + order.total_amount, 0),
+          ),
+        },
+        { label: "Orders", value: String(orders.length) },
+        {
+          label: "Pending orders",
+          value: String(
+            orders.filter((order) => order.status === "pending").length,
+          ),
+          tone: "info" as const,
+        },
+        {
+          label: "Low stock",
+          value: String(lowStock.length),
+          tone: "warn" as const,
+        },
+      ];
+  const displayedOrders = preview
+    ? recentOrders.map((order) => ({
+        orderNumber: order.orderNumber,
+        customer: order.customer,
+        totalKobo: order.totalKobo,
+        status: order.status,
+      }))
+    : orders
+        .slice(0, 5)
+        .map((order) => ({
+          orderNumber: order.order_number,
+          customer: "—",
+          totalKobo: order.total_amount,
+          status: order.status,
+        }));
+  const displayedAlerts = preview
+    ? lowStockAlerts
+    : lowStock.map((variant) => ({
+        name: variant.sku,
+        remaining: variant.quantity,
+      }));
   return (
     <div className="px-4 py-4 md:px-[30px] md:py-[26px]">
       <div className="mb-[22px] flex items-center justify-between">
         <h1 className="text-[19px] font-semibold">Dashboard</h1>
-        <div className="text-xs text-ink-45">{preview ? "Design preview · Sample data" : "Live workspace"}</div>
+        <div className="text-xs text-ink-45">
+          {preview ? "Design preview · Sample data" : "Live workspace"}
+        </div>
       </div>
       <div className="mb-6 grid grid-cols-2 gap-3 md:grid-cols-5">
         {metrics.map((metric) => (
-          <div key={metric.label} className="rounded-xl border border-line bg-panel px-4 py-3.5">
+          <div
+            key={metric.label}
+            className="rounded-xl border border-line bg-panel px-4 py-3.5"
+          >
             <div className="mb-1.5 text-[11px] text-ink-45">{metric.label}</div>
             <div
               className={cn(
@@ -98,9 +152,24 @@ export default async function AdminDashboardPage() {
         </section>
       </div>
       <div className="mt-5 flex flex-wrap gap-2 text-sm">
-        <Link href="/admin/orders" className="rounded-lg bg-ink px-4 py-3 font-semibold text-white">View all orders</Link>
-        <Link href="/admin/inventory" className="rounded-xl border border-line bg-panel px-4 py-3 font-semibold">Review low stock</Link>
-        <Link href="/admin/sale" className="rounded-xl border border-line bg-panel px-4 py-3 font-semibold">Record a sale</Link>
+        <Link
+          href="/admin/orders"
+          className="rounded-lg bg-ink px-4 py-3 font-semibold text-white"
+        >
+          View all orders
+        </Link>
+        <Link
+          href="/admin/inventory"
+          className="rounded-xl border border-line bg-panel px-4 py-3 font-semibold"
+        >
+          Review low stock
+        </Link>
+        <Link
+          href="/admin/sale"
+          className="rounded-xl border border-line bg-panel px-4 py-3 font-semibold"
+        >
+          Record a sale
+        </Link>
       </div>
     </div>
   );

@@ -10,7 +10,9 @@ export default function SignInPage() {
           “Every device we sell is verified before it&apos;s listed — condition,
           battery health, IMEI.”
         </blockquote>
-        <div className="rounded-lg border-l-[3px] border-blue bg-white/6 p-4 text-[13px]">Softwallet staff workspace</div>
+        <div className="rounded-lg border-l-[3px] border-blue bg-white/6 p-4 text-[13px]">
+          Softwallet staff workspace
+        </div>
       </aside>
       <SignInForm />
     </div>

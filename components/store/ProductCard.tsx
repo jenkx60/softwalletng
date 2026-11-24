@@ -6,14 +6,18 @@ import { StockDot } from "@/components/store/StockDot";
 import type { ProductCardModel } from "@/types/catalogue";
 
 function tagVariant(product: ProductCardModel) {
-  if (product.condition === "out" || product.stock === "out") return "out" as const;
+  if (product.condition === "out" || product.stock === "out")
+    return "out" as const;
   if (product.condition === "uk_used") return "used" as const;
   return "new" as const;
 }
 
 export function ProductCard({ product }: { product: ProductCardModel }) {
   return (
-    <Link href={`/products/${product.slug}`} className="overflow-hidden rounded-xl border border-line bg-panel">
+    <Link
+      href={`/products/${product.slug}`}
+      className="overflow-hidden rounded-xl border border-line bg-panel"
+    >
       <div className="relative flex aspect-square items-center justify-center rounded-lg bg-photo">
         <ConditionTag
           variant={tagVariant(product)}

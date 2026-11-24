@@ -32,7 +32,10 @@ export async function requireRole(
   const permitted = roles.some((role) => allowed.includes(role));
 
   if (!permitted) {
-    return { success: false, error: "You do not have permission for this action." };
+    return {
+      success: false,
+      error: "You do not have permission for this action.",
+    };
   }
 
   return { success: true, data: { userId: user.id, roles } };

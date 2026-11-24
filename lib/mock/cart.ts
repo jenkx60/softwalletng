@@ -27,7 +27,8 @@ export const cartLines: CartLine[] = [
     condition: null,
     meta: "",
     available: false,
-    warning: "This unit sold while it was in your cart — sorry! Remove to continue.",
+    warning:
+      "This unit sold while it was in your cart — sorry! Remove to continue.",
   },
 ];
 

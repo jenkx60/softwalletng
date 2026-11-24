@@ -1,10 +1,6 @@
 import { cn } from "@/lib/utils";
 
-export function StatusPill({
-  status,
-}: {
-  status: "paid" | "pending";
-}) {
+export function StatusPill({ status }: { status: "paid" | "pending" }) {
   return (
     <span
       className={cn(

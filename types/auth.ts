@@ -16,5 +16,4 @@ export const STAFF_ROLES: AppRole[] = [
 ];
 
 export type ActionResult<T> =
-  | { success: true; data: T }
-  | { success: false; error: string };
+  { success: true; data: T } | { success: false; error: string };

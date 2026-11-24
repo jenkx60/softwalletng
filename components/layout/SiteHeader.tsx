@@ -70,8 +70,28 @@ export function SiteHeader({
             </Link>
           ))}
         </nav>
-        <details className="relative md:hidden"><summary className="cursor-pointer rounded-lg border border-line px-3 py-2 text-sm">Menu</summary><nav className="absolute right-0 z-20 mt-2 w-48 space-y-3 rounded-xl border border-line bg-panel p-4 shadow-soft">{navLinks.map(link=><Link key={link.href} href={link.href} className="block text-sm">{link.label}</Link>)}<Link href="/account/orders" className="block text-sm">My orders</Link><Link href="/account/help" className="block text-sm">Help</Link></nav></details><div className="ml-auto flex items-center gap-[18px] text-ink">
-          <Link href="/shop" aria-label="Search products"><Search className="size-[18px]" aria-hidden /></Link>
+        <details className="relative md:hidden">
+          <summary className="cursor-pointer rounded-lg border border-line px-3 py-2 text-sm">
+            Menu
+          </summary>
+          <nav className="absolute right-0 z-20 mt-2 w-48 space-y-3 rounded-xl border border-line bg-panel p-4 shadow-soft">
+            {navLinks.map((link) => (
+              <Link key={link.href} href={link.href} className="block text-sm">
+                {link.label}
+              </Link>
+            ))}
+            <Link href="/account/orders" className="block text-sm">
+              My orders
+            </Link>
+            <Link href="/account/help" className="block text-sm">
+              Help
+            </Link>
+          </nav>
+        </details>
+        <div className="ml-auto flex items-center gap-[18px] text-ink">
+          <Link href="/shop" aria-label="Search products">
+            <Search className="size-[18px]" aria-hidden />
+          </Link>
           <Link href="/cart" aria-label="Cart">
             <ShoppingCart className="size-[18px]" />
           </Link>

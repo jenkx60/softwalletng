@@ -42,7 +42,10 @@ export function OrderSummary({
       ))}
       {showDiscount ? (
         <div className="my-3.5 flex gap-2">
-          <Input placeholder="Discount code" className="h-9 rounded-lg text-[12.5px]" />
+          <Input
+            placeholder="Discount code"
+            className="h-9 rounded-lg text-[12.5px]"
+          />
           <Button variant="outline" size="sm" className="h-9 rounded-lg px-3.5">
             Apply
           </Button>

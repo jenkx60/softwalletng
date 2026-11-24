@@ -29,7 +29,9 @@ export function VariantPicker({
             onClick={() => setSelected(option)}
             className={cn(
               "border-[1.5px] bg-white px-3.5 py-2 text-[13px] font-medium",
-              selected === option ? "border-ink bg-ink text-white" : "border-line",
+              selected === option
+                ? "border-ink bg-ink text-white"
+                : "border-line",
             )}
           >
             {option}
